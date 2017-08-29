@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jessica Grazziotin",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://techfolios.github.io/template/images/IMG_8647.png",
+    "email": "jlblanke@hawaii.edu",
+    "website": "https://jessiejames.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +16,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jessiejames",
+        "url": "http://github.com/jessiejames"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Jessica Grazziotin",
+        "url": "https://www.linkedin.com/in/jessica-grazziotin-531530100/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jessie_b_g",
+        "url": "https://www.instagram.com/jessie_b_g/?hl=en"
       }
     ]
   },
@@ -42,17 +36,31 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Raspberry Pi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "user interface / user experience",
       "keywords": [
+        "HCI",
+        "Human Computer Interface",
+        "GUI",
+        "Graphical User Input",
+        "I/O"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "block chain",
+      "keywords": [
+        "Cryptocurrency",
+        "Smart Contracts"
       ]
     }
   ],
@@ -63,10 +71,12 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Verilog",
+        "Matlab",
+        "Ruby",
+        "Python"
       ]
     },
     {
@@ -74,34 +84,42 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-01-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.3",
       "courses": [
+        "Computer Hardware",
+        "Algorithms",
+        "Multimedia Programming",
+        "Semiconductor Physics",
+        "Operating Systems",
+        "Internet of Things", 
+        "Object Oriented Programming",
+        "Discrete Mathmatics"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Spawar Systems Center Pacific",
+      "position": "Computer Engineering Intern",
+      "website": "http://www.public.navy.mil/spawar/Pacific/Pages/default.aspx",
+      "startDate": "2017-05-28",
+      "endDate": "2017-07-31",
+      "summary": "Assembled and Programmed a Liquid Metal Deposition System",
       "highlights": [
+        "Provide the Graphene Microfluidics Lab with a prototyping tool. This tool would be used to automate the precise (<.1mm) printing of Graphene transistor channels for experiment samples. This benefits the lab by eliminating the need to purchase the standard high cost equipment such as a bio-printer. 
+Main Components: Thor Labs Linear Actuators, Fluigent Microfluidics Control System, Matlab
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
