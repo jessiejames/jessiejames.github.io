@@ -143,7 +143,7 @@
       "endDate": "2015-07-15",
       "summary": "Explored Ruby on Rails & designed a Wearable Electronic Comic Con Piece",
       "highlights": [
-        "4 Added profiles to a membership portal, updated a static website using Jekyll",
+        "Added profiles to a membership portal, updated a static website using Jekyll",
         "Rapidly prototyped and designed a wearable electronic device in three weeks to present at The Amazing ComicCon",
         "Device: LED light up glasses controlled by a microcontroller encased in a 3D printed necklace housing",
         "Main Components: Arduino pro mini, 4 LED light strips, C language, 3D printed housing"
@@ -152,11 +152,11 @@
   ],
   "volunteer": [
     {
-      "organization": "a",
+      "organization": "",
       "website": "",
       "position": "Volunteer Workshop Planning, Directing, and Recruiting",
-      "startDate": "2015-04-12",
-      "endDate": "2015-06-12",
+      "startDate": "",
+      "endDate": "",
       "summary": "Recruited students, faculty, and members of the community to participate in tech related events",
       "highlights": [
         "Fashion Tech designer Anouk Wipprecht lead the workshop which consisted of hackers, makers, and fashion designers",
@@ -168,8 +168,8 @@
       "organization": "",
       "website": "",
       "position": "Professional organization involvement",
-      "startDate": "2017-03-22",
-      "endDate": "2017-04-22",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Treasurer, HKN (Eta Kappa Nu - Delta Omega), UH Manoa, 2017-Present",
