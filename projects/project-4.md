@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: NASA CanSat Competition 2016
-permalink: projects/micromouse
-date: Fall 2015 - Summer 2016
+permalink: projects/cansat
+date: 2016
 labels:
   - Arduino
   - C++
