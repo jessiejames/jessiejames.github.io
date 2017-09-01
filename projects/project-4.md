@@ -9,7 +9,7 @@ labels:
   - Arduino
   - C++
   - Xbee 
-  - Sensors: Barometer, Pitot Tube, Acceleromter, GPS
+  - Data Acquisition
   - Memory Management
 summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 12th place overall and 3rd place in the U.S.
 ---
