@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cansat_code.png
+image: images/cansat_logo.png
 title: NASA CanSat Competition 2016
 permalink: projects/cansat
 date: 2016
@@ -17,7 +17,7 @@ summary: My team competed in the 2016 CanSat competition that simulates the land
 <div class="ui small rounded images">
   <img class="ui image" src="../images/cansat_board.jpg">
   <img class="ui image" src="../images/cansat_group.jpeg">
-  <img class="ui image" src="../images/cansat_code.png">
+  <img class="ui image" src="../images/cansat_logo.png">
 </div>
 
 Teams compete to simulate a Mars payload descending and taking atmospheric measurements to be submitted to a ground station. 
