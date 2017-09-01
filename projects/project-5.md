@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/comicon_glasses.png
-title: Electric Storm: Cosplay meets Tech
+title: Electric Storm Cosplay meets Tech
 permalink: projects/comiccon
 date: 2015
 labels:
