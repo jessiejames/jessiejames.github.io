@@ -10,7 +10,7 @@ labels:
   - C++
   - Wearables
   - Cosplay
-summary: Wearable Electronics for a costume featured in a talk at the Amazing Hawaii Comic Con 2015
+summary: Wearable Electronics for a costume featured in a panel at the Amazing Hawaii Comic Con 2015
 ---
 
 <div class="ui small rounded images">
