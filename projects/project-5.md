@@ -10,25 +10,17 @@ labels:
   - C++
   - Wearables
   - Cosplay
-summary: Wearable Electronics for a costume featured in a panel at the Amazing Hawaii Comic Con 2015
+summary: Wearable Electronics for a panel at the Amazing Hawaii Comic Con 2015
 ---
 
-<div class="ui small rounded images">
+<div class="ui image">
   <img class="ui image" src="../images/comicon_glasses.png">
   <img class="ui image" src="../images/comiccon_presentation.jpg">
 </div>
 
-Teams compete to simulate a Mars payload descending and taking atmospheric measurements to be submitted to a ground station. 
+<b> Scope </b><br/>
+The scope of this project was to design and build a device that would compliment a cosplay piece for the Amazing Hawaii Comic Con under a three week time frame. The pitch of this project came about because a member of HiCapacity who was asked to do a panel at cosplay, could no longer make the event. So this was a last minute, time to show what you've got, sort of project which added to the excitement of it all in the end. Now HiCapacity is a local hackerspace in Honolulu where I happened to be doing my summer internship. So I was very lucky to have access to members of the community from all different backgrounds. From fine arts, electrical engineering, computer science and even molecular biology, the skill support I had on this project really gave me the confidence that I could complete it in time.
 
-CanSat is a NASA sponsored event in which teams worldwide compete to simulate a Mars payload descending and recording and transmitting atmospheric measurements to be submitted to a ground station. The focus of this competition is to recreate the engineering research and design process that makes a Mars payload project possible. There are several design limitations that each team must meet in order to compete. The payload's design is restricted by a number of factors such as limits on mass, flight path, cost, and durability. These factors heavily influence the electronics that may be used for data collection based on the size, power, and communication limitations. Aside from constructing the payload, aach team must present several preliminary designs to a NASA engineer for review before the payload launch in Texas. 
-
-During this project, I was primarily responsible for the flight logic and designing the release mechanism using nichrome wire. 
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
+So the first step was to think of a costume. I really like the style that Storm from the X-men always had: the contrasting look from the silver white hair, the dark clothes and complexion, and of course the blueish white eyes. Also the fact that the energy she could summon was primarily electrical energy fit the scope of the project very nicely. Most cosplayers that portray Storm will typically wear white contacts to show this effect. The problem with this is that Storm's eyes were not always white. They turned white when she was summoning a storm. 
 
 
