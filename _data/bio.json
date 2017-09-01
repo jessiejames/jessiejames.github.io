@@ -152,16 +152,17 @@
   ],
   "activities": [
     {
-      "organization": "HiCapacity",
-      "website": "https://hicapacity.org",
-      "position": "Recruiter",
+      "organization": "",
+      "website": "",
+      "position": "Volunteer Workshop Planning / Directing / Recruiting",
       "startDate": "2015-07-15",
-      "endDate": "2015-11-12",
-      "summary": "Recruited students and faculty to participate",
+      "endDate": "Present",
+      "summary": "Recruited students, faculty, and members of the community to participate in tech related events",
       "highlights": [
-        "Fashion Tech designer Anouk Wipprecht lead the workshop which consisted of hackers, makers, and fashion designers",
-        "I reached out to students and faculty in Hawaii to encourage them to participate in this community event",
-        "I also helped with organizing the different subprojects and communicating between the guests and head organizers"
+        "Hawaii Fashion Technology Workshop @ the Manoa Innovation Center with Anouk Wipprecht (Intel) and HIFI (Hawaii Fashion Incubator)",
+        "HICapacity Soldering Workshop @ the Honolulu Mini Maker Faire (June 2016 & 2017)",
+        "Haunted Hack Night @ KCC in 2015. A hacker/maker event that showcased electronic projects from students and tech professionals in the community. (apps, electric skateboards, robots, 3D printing)",
+        "Women’s Tech Night @ HICapacity" 
       ]
     },
     {
