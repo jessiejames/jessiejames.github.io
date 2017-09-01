@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cansat_logo_tiny.png
 title: NASA CanSat Competition 2016
-permalink: projects/cansat
+permalink: projects/cansat2
 date: 2016
 labels:
   - Arduino
