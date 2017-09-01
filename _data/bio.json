@@ -133,7 +133,7 @@
       "highlights": [
         "Goal 1: provide the user with real time data from a high precision ADC (analog to digital converter)",
         "Goal 2: design with the future intention of pairing with a graphene photo sensing element",
-        "Main Components: Arduino Uno, 16bit ADC, standard photo sensing element, C and Python languages"
+        "Main Components: Arduino Uno, 16bit ADC, standard photo sensing element, C and Python languages",
         "Results: accomplished Goal 1 and Goal 2 and improved the project with a stronger processor (Raspberry Pi 3) after returning to school"
       ]
     },
