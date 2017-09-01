@@ -154,41 +154,38 @@
     {
       "organization": "HiCapacity",
       "website": "https://hicapacity.org/",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Recruiter",
+      "startDate": "2015-07-15",
+      "endDate": "2015-11-12",
+      "summary": "Recruited students and faculty to participate",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Fashion Tech designer Anouk Wipprecht lead the workshop which consisted of hackers, makers, and fashion designers",
+        "I reached out to students and faculty in Hawaii to encourage them to participate in this community event",
+        "I also helped with organizing the different subprojects and communicating between the guests and head organizers"
       ]
     },
     {
-      "organization": "",
+      "organization": "Professional organization involvement",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Treasurer, HKN (Eta Kappa Nu - Delta Omega), UH Manoa, 2017-Present",
+        "Finance-Chair, Society of Women Engineers Student Branch, UH Manoa, 2016-Present",
+        "Associate Board Member, IEEE Student Branch, UH Manoa, 2016-Present",
+        "Director of Media and Marketing, Engineers for a Sustainable World, KCC, 2015-2016",
+        "Event Organizer, HiCapacity (Hackerspace), Honolulu, HI, 2015-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii, College of Engineering",
+      "summary": "Award presented to the top 23% of students in the College of Engineering for each Semester."
     }
   ],
   "references": [
