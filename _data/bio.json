@@ -86,7 +86,7 @@
       "keywords": [
         "MacOS",
         "Linux",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -124,22 +124,36 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Spawar Systems Center Pacific",
+      "position": "Computer Engineering Intern",
+      "website": "http://www.public.navy.mil/spawar/Pacific/Pages/default.aspx",
+      "startDate": "2016-05-23",
+      "endDate": "2016-07-28",
+      "summary": "Designed a portable data aquisition device with complementary GUI software",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Designed a portable data aquisition device with complementary GUI software",
+        "Main Components: Arduino Uno, 16bit ADC, standard photo sensing element, C and Python languages"
+      ]
+    },
+    {
+      "company": "HiCapacity",
+      "position": "Intern",
+      "website": "https://hicapacity.org/",
+      "startDate": "2015-05",
+      "endDate": "2015-07",
+      "summary": "Explored Ruby on Rails & designed a Wearable Electronic Comic Con Piece",
+      "highlights": [
+        "Added profiles to a membership portal, updated a static website using Jekyll",
+        "Rapidly prototyped and designed a wearable electronic device in three weeks to present at The Amazing ComicCon",
+        "Device: LED light up glasses controlled by a microcontroller encased in a 3D printed necklace housing",
+        "Main Components: Arduino pro mini, 4 LED light strips, C language, 3D printed housing"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "HiCapacity",
+      "website": "https://hicapacity.org/",
       "position": "Software Developer",
       "startDate": "2016-01-01",
       "endDate": "Present",
