@@ -26,11 +26,13 @@ CanSat is a NASA sponsored event in which teams worldwide compete to simulate a 
 
 During this project, I was primarily responsible for programming the sensor integration and flight logic as well as designing the release mechanism for our payload from it's safety cannister. The components for our system included:
 <ul>
-  <li> Barometric Pressure Sensor </li>
-  <li> GPS Sensor </li>
+  <li><b> Barometric Pressure Sensor </b></li>
+  <li> GPS Location Sensor </li>
   <li> Real Time Clock </li>
   <li> Temperature Sensor </li>
   <li> Pitot Tube Speed Sensor </li>
+  <li> SD card reader </li>
+  <li> Arduino Pro Mini </li>
 </ul>
   
 
