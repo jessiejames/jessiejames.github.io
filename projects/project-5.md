@@ -14,8 +14,8 @@ summary: Wearable Electronics for a costume featured in a talk at the Amazing Ha
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/comicon_glasses.jpg">
-  <img class="ui image" src="../images/comiccon_presentation.jpeg">
+  <img class="ui image" src="../images/comicon_glasses.png">
+  <img class="ui image" src="../images/comiccon_presentation.jpg">
 </div>
 
 Teams compete to simulate a Mars payload descending and taking atmospheric measurements to be submitted to a ground station. 
