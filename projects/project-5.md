@@ -1,23 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cansat_logo_tiny.png
-title: NASA CanSat Competition 2016
-permalink: projects/cansat2
+image: images/comicon_glasses.png
+title: Electric Storm: Cosplay meets Tech
+permalink: projects/comiccon
 date: 2016
 labels:
   - Arduino
   - C++
-  - Xbee 
-  - Data Acquisition
-  - Memory Management
-summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 12th place overall and 3rd place in the U.S.
+  - Wearables
+  - Cosplay
+summary: Wearable Electronics for a costume featured in a talk at the Amazing Hawaii Comic Con 2015
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/cansat_board.jpg">
-  <img class="ui image" src="../images/cansat_group.jpeg">
-  <img class="ui image" src="../images/cansat_logo.png">
+  <img class="ui image" src="../images/comicon_glasses.jpg">
+  <img class="ui image" src="../images/comicon_presentation.jpeg">
 </div>
 
 Teams compete to simulate a Mars payload descending and taking atmospheric measurements to be submitted to a ground station. 
