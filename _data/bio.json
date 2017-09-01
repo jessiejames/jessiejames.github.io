@@ -139,8 +139,8 @@
       "company": "HiCapacity",
       "position": "Intern",
       "website": "https://hicapacity.org/",
-      "startDate": "2015-05",
-      "endDate": "2015-07",
+      "startDate": "2015-05-15",
+      "endDate": "2015-07-15",
       "summary": "Explored Ruby on Rails & designed a Wearable Electronic Comic Con Piece",
       "highlights": [
         "Added profiles to a membership portal, updated a static website using Jekyll",
@@ -183,7 +183,7 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2017-Present",
+      "date": "2017-05-15",
       "awarder": "University of Hawaii, College of Engineering",
       "summary": "Award presented to the top 23% of students in the College of Engineering for each Semester."
     }
