@@ -10,7 +10,7 @@ labels:
   - C++
   - Wearables
   - Cosplay
-summary: Wearable Electronics for a panel at the Amazing Hawaii Comic Con 2015
+summary: Wearable Electronics for a costume featured in a panel at the Amazing Hawaii Comic Con 2015
 ---
 
 <div class="ui image">
@@ -42,6 +42,10 @@ I knew when I was designing this piece that I did not want to hide the electroni
   
 <b> Logic </b><br/>
 I wanted the lights (or Storm's eyes) to have more than just a simple on / off switch effect. So using the Arduino libraries and others found online, I was able to work with several advanced programmers to develop <b>3 sequences: Off, Flicker, and Summon the Storm</b>. "Off", consisted of no lights engaged and occured when neither buttons were latched. "Flicker" was much more of a flirty one flash here, one flash there sort of sequence and would occur when the Buck Booster's button was latched. The latching completed the circuit and provided power to the Arduino. This sequence was a great for grabbing attention, without showing the full effect. The second button was connected to a logic pin on the Arduino. When this button was latched, it engaged the "Summon the Storm" sequence. This sequence consisted of sporadic flashing that would eventually light up all of the lights and end in a giant flash! 
+
+<div class="ui image">
+  <img class="ui image" src="../images/comiccon_flash.png">
+</div>
 
 <b> Results & Panel Discussion </b><br/> 
 In the end I was able to successfully construct the glasses in time and the reception was wonderful. I shared my story with around 30 cosplayers that showed up to the panel. I explained that I was a beginner programmer myself, and that I was lucky to have stumbled upon a hackerspace and online open source community that can help anyone learn how to build electronic systems. We discussed the different ways that electronics could enhance a costume and where to go to learn more. Overall it was a very humbling yet encouraging experience. I learned how important it is to have resource networks and I gained experience in full system planning from parts selection to programming. The wearable aspect was really fun as well and allowed me to highlight my creative strengths. 
