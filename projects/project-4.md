@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: NASA CanSat Competition 2016
 permalink: projects/micromouse
-date: 2015
+date: Fall 2015 - Summer 2016
 labels:
-  - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Xbee 
+  - Sensors: Barometer, Pitot Tube, Acceleromter, GPS
+  - Memory Management
+summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 12th place overall and 3rd place in the U.S.
 ---
 
 <div class="ui small rounded images">
@@ -18,6 +20,12 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
+
+Teams compete to simulate a Mars payload descending and taking atmospheric measurements to be submitted to a ground station. 
+
+CanSat is a NASA sponsored event in which teams worldwide compete to simulate a Mars payload descending and recording and transmitting atmospheric measurements to be submitted to a ground station. The focus of this competition is to recreate the engineering research and design process that makes a Mars payload project possible. There are several design limitations that each team must meet in order to compete. The payload's design is restricted by a number of factors such as limits on mass, flight path, cost, and durability. These factors heavily influence the electronics that may be used for data collection based on the size, power, and communication limitations. Aside from constructing the payload, aach team must present several preliminary designs to a NASA engineer for review before the payload launch in Texas. 
+
+During this project, I was primarily responsible for the flight logic and designing the release mechanism using nichrome wire. 
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
