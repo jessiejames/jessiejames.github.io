@@ -150,10 +150,10 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
       "organization": "HiCapacity",
-      "website": "https://hicapacity.org/",
+      "website": "https://hicapacity.org",
       "position": "Recruiter",
       "startDate": "2015-07-15",
       "endDate": "2015-11-12",
