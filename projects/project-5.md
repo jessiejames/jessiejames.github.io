@@ -4,7 +4,7 @@ type: project
 image: images/comicon_glasses.png
 title: Electric Storm: Cosplay meets Tech
 permalink: projects/comiccon
-date: 2016
+date: 2015
 labels:
   - Arduino
   - C++
@@ -15,7 +15,7 @@ summary: Wearable Electronics for a costume featured in a talk at the Amazing Ha
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/comicon_glasses.jpg">
-  <img class="ui image" src="../images/comicon_presentation.jpeg">
+  <img class="ui image" src="../images/comiccon_presentation.jpeg">
 </div>
 
 Teams compete to simulate a Mars payload descending and taking atmospheric measurements to be submitted to a ground station. 
