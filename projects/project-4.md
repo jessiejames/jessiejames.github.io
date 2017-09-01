@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cansat_logo.png
+image: images/cansat_logo_tiny.png
 title: NASA CanSat Competition 2016
 permalink: projects/cansat
 date: 2016
