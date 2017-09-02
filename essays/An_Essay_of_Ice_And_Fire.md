@@ -9,10 +9,6 @@ labels:
 
 <img class="ui image" src="../images/e_javascript_coming.jpg">
 
-So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
-
-What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
-
 So in case you're not as big of a Game of Thrones fan as I am, the *Song of Ice and Fire* is a fantasy book series, that has been adapted into a very popular TV series. Without giving too much away, the story slowly but gorgeously leads up to the joining of two polarizing forces; hence Ice and Fire. I bring this story up because when I start to think of the funky family trees that make up have led to today's most popular programming languages, it seems like Java Script could be emerging as the *Prince that was Promised*. Ok that was the last Game of Thrones joke I swear! But despite the masses of developers that love to hate on JavaScript and would wish it dead, it showed us the light of the internet! 
 
 I'm a newbie to JavaScript. So far in my two years of coding, I have primarily worked in C and C++. After going through the JavaScript module from freeCodeCamp, I felt like there are many similarities. Maybe I have not dug deep enough to find the real limitations, but I really enjoyed the fact that you can return a function! *Mind Blown* I also appreciated the malleability of the data types compared to the unforgiving background that I am used to. The multi-typed arrays were a really cool feature in my eyes. This may be a naive statement, but I saw novelness in the triple equals feature as well. It's not that C doesn't provide a comparable operation, but for a reader, it is much more obvious how specific the author wants the argument to be. 
