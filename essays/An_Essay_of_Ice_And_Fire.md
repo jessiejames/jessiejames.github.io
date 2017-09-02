@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Code of Ice And Fire
+title: Javascript- An Essay of Ice And Fire
 date: 2017-09-01
 labels:
   - Software Engineering, JavaScript
