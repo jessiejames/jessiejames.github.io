@@ -1,17 +1,29 @@
 ---
 layout: essay
 type: essay
-title: jsTitle
-date: 2016-02-06
+title: A Code of Ice And Fire
+date: 2017-09-01
 labels:
-  - Engineering
+  - Software Engineering, JavaScript
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/e_javascript_coming.jpg">*"Power resides where men believe it resides. It's a trick, a shadow on the wall. And a very small man can cast a very large shadow." — Lord Varys*
 
 So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
 
 What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
+
+So in case you're not as big of a Game of Thrones (GOT) fan as I am, the *Song of Ice and Fire* is a fantasy book series, that has been adapted into a very popular TV series. Without giving too much away, the story slowly but gorgeously leads up to the joining of two polarizing forces; hence Ice and Fire. 
+
+
+
+
+
+
+
+
+
+
 
 One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
