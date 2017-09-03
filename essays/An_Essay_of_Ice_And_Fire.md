@@ -7,7 +7,8 @@ labels:
   - Software Engineering, JavaScript
 ---
 
-<img class="ui image" src="../images/e_javascript_coming.jpg">
+<img class="ui medium center image" src="../images/e_javascript_coming.jpg">
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 So in case you're not as big of a Game of Thrones fan as I am, the *Song of Ice and Fire* is a fantasy book series, that has been adapted into a very popular TV series. Without giving too much away, the story slowly but gorgeously leads up to the joining of two polarizing forces, hence Ice and Fire. I bring this story up, because when I start to think of the funky family trees that have brought us today's most popular programming languages, it seems like Java Script could be emerging as the *Prince that was Promised*. Ok that was the last Game of Thrones joke I swear! But despite the masses of developers that love to hate on JavaScript and would wish it dead, it showed us the light of the internet! It really harnessed the potential for a website experience. 
 
