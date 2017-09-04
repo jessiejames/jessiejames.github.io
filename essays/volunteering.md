@@ -12,11 +12,8 @@ labels:
 # SO WHY NOT SEE VOLUNTEERING AS AN INVESTMENT?
 
 <br> 
-In some ways, I've been a volunteer junkie my whole life. Whether it was getting myself involved in club leadership positions or signing my weekends away, I have always found someway to be helping in a million activities that I'm not getting paid for. 
-
 <img class="ui medium left floated rounded image" src="../images/volunteer_tribute.jpg">
-
-However, as time has progressed, I have decided that some of my best professional decisions were my volunteer experiences. Now I'm not going to talk about the butterfly stories and sugar coated reasons that your high school counserlors told you: *"you'll make friends, you'll feel good about helping someone, you'll make the world a better place"*. The reasons I'll present are strictly career oriented. 
+In some ways, I've been a volunteer junkie my whole life. Whether it was getting myself involved in club leadership positions or signing my weekends away, I have always found someway to be helping in a million activities that I'm not getting paid for. However, as time has progressed, I have decided that some of my best professional decisions were my volunteer experiences. Now I'm not going to talk about the butterfly stories and sugar coated reasons that your high school counserlors told you: *"you'll make friends, you'll feel good about helping someone, you'll make the world a better place"*. The reasons I'll present are strictly career oriented. 
 
 <br>
 ## 1.0 You'll Learn What You Like
