@@ -59,4 +59,6 @@ The making friends, feeling good about yourself, and help make the world a bette
 
 Now the feel good about yourself part should be a given. No matter how small the task, if you weren't there to do it, it means that someone else would have needed to do it, or it would not have gotten done. Sometimes even little gestures can make a big difference. So you should feel good for helping make someone's life a little easier, which in the end, will <b>make the world a better place</b>. 
 
+Personal Experience: [This Article](https://kapionews.kapiolani.hawaii.edu/techie-treats-highlight-haunted-hack-night/)  about Haunted Hack Night gave me all the feels. It was a workshop I put together to help spread the word about the tech resources we had at KCC and in the community. 
+
 # Invest in Your Career By Volunteering! 
