@@ -49,3 +49,7 @@ I wanted the lights (or Storm's eyes) to have more than just a simple on / off s
 
 <b> Results & Panel Discussion </b><br/> 
 In the end I was able to successfully construct the glasses in time and the reception was wonderful. I shared my story with around 30 cosplayers that showed up to the panel. I explained that I was a beginner programmer myself, and that I was lucky to have stumbled upon a hackerspace and online open source community that can help anyone learn how to build electronic systems. We discussed the different ways that electronics could enhance a costume and where to go to learn more. Overall it was a very humbling yet encouraging experience. I learned how important it is to have resource networks and I gained experience in full system planning from parts selection to programming. The wearable aspect was really fun as well and allowed me to highlight my creative strengths. 
+
+Here is the link to [HiCapacity's](https://hicapacity.org/2015/07/28/comic-con-honolulu/) post that lists descriptions the three panel discussions that it sponsored. 
+
+Also here is a news article about the [Ladies in Tech](http://www.hawaiiweblog.com/2015/08/22/ladies-in-tech) mixer I threw that was inspired by questions and answers at this panel.  
