@@ -28,7 +28,7 @@ The GPri is a result of my Summer internship of 2017 at SSCPAC (SPAWAR Systems C
 
 ### My overall goal for this project was to assemble, test & prototype a research instrument that deposits Galinstan with high precision accuracy (in the 10^1 microns range). 
 
-So what is <b>Galinstan</b>? Galinstan is one of the compounds known casually as "liquid metal". It is a portmateau of its chemical components: Gal-In-Stan = Gallium, Indium, Tin (Stannum). Liquid metals are alloys that are liquid at room temperature. The Graphene Microfluidics Lab found interest in liquid metal for its potential use in flexible electronics. Liquid metal is also ideal because it provides a more reliable contact for the source and drain of transistors, as opposed to rigid metals. 
+So what is <b>Galinstan</b>? Galinstan is one of the compounds known casually as "liquid metal". It is a portmateau of its chemical components: Gal-In-Stan = Gallium, Indium, Tin (Stannum). Liquid metals are alloys that are liquid at room temperature. The Graphene Microfluidics Lab found interest in liquid metal for its potential use in flexible electronics. Liquid metal is also ideal because it provides a more reliable contact for the source and drain of transistors, as opposed to rigid metals. Here is a link to the GML team's most recent [publication on Nature.com](https://www.nature.com/articles/s41598-017-10043-4).
 
 The proposed GPri would perform the same way that an ink jet printer would, except with liquid metal. In order to achieve a *miniaturized graphene device*, the liquid metal channels (or printed lines in essence) would ideally be around 50 microns in width. 
 
