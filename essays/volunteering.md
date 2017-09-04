@@ -53,9 +53,9 @@ School led tech events are great, but they usually are primarily made up of stud
 Personal Experience: I got my first internship through a voluntary school project. Then I got my next internship, by volunteering for outreach events at the first internship. 
 
 ## 4.0 Ok I Lied, Everything Your Counselor Said Actually is True & Important
+<img class="ui medium right rounded image" src="../images/volunteer_elf.jpeg">
 The making friends, feeling good about yourself, and help make the world a better place are actually all true. Something I had underestimated from joining all of the clubs I'm involved in at school is that I have made so many friends. It's so nice when I start a new semester and I recognize a familiar face from HKN in my classes. Or when I notice that my IEEE buddy is always heading to Starbucks the same time I am. I have met all of these people through numerous outreach events. During volunteer events you usually have some downtime to socialize a little and find out more about someone than how they did on last weeks quiz. And studies show that we as social creatures, need these bonds to be a more mentally stable, and thus, productive.  
 
 Now the feel good about yourself part should be a given. No matter how small the task, if you weren't there to do it, it means that someone else would have needed to do it, or it would not have gotten done. Sometimes even little gestures can make a big difference. So you should feel good for helping make someone's life a little easier, which in the end, will <b>make the world a better place</b>. 
 
-<img class="ui medium center rounded image" src="../images/volunteer_elf.jpeg">
 
