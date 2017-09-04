@@ -18,7 +18,7 @@ labels:
 summary: The making of a liquid metal printer. 
 ---
 
-<div class="ui image">
+<div class="ui middle aligned image">
   <img class="ui image" src="../images/printer_big.JPG">
 </div>
 
