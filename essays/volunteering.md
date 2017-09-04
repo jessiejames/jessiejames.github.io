@@ -20,11 +20,8 @@ However, as time has progressed, I have decided that some of my best professiona
 
 <br>
 ## 1.0 You'll Learn What You Like
-When entering the realm of tech, there are soooo many niches that you can work in: cybersecurity, embedded systems, web dev, dev ops, big data, AI, AR, VR, IoT, and the list goes on. There is NO way that you will have enough time to take courses on each of these subjects individually. Of course there are free online tutorials, but is that what *working* in that field is like? 
-
 <img class="ui medium right floated rounded image" src="../images/volunteer_passion.jpg">
-
-Why not volunteer for something that you're interested in. If there's a hackathon based on one of these topics, and you're really interested, but your imposter syndrome won't let you sign up. Or you just don't have time to dedicate all weekend, but you have maybe a few hours to spare: <b>try volunteering to help at the <insert interest> hackathon! </b> Even though you won't be on a team, you will probably find some time to hop in and see what the teams are doing and ask questions. In doing this, you can get a quick feel for what this niche is all about by seeing more than one example in a short amount of time. 
+When entering the realm of tech, there are soooo many niches that you can work in: cybersecurity, embedded systems, web dev, dev ops, big data, AI, AR, VR, IoT, and the list goes on. There is NO way that you will have enough time to take courses on each of these subjects individually. Of course there are free online tutorials, but is that what *working* in that field is like? Why not volunteer for something that you're interested in. If there's a hackathon based on one of these topics, and you're really interested, but your imposter syndrome won't let you sign up. Or you just don't have time to dedicate all weekend, but you have maybe a few hours to spare: <b> try volunteering to help at the *insert interest* hackathon! </b> Even though you won't be on a team, you will probably find some time to hop in and see what the teams are doing and ask questions. In doing this, you can get a quick feel for what this niche is all about by seeing more than one example in a short amount of time. 
 
 <br>
 ## 1.1 You'll Learn What You Don't Like
