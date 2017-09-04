@@ -26,13 +26,13 @@ Personal Experience: I found out I liked fashion tech by helping organize a fash
 ## 1.1 You'll Learn What You Don't Like
 This just follows up on the idea above, but can be as equally as important. What if you dedicated a whole 6 month course to a topic you found out you just weren't as interested in as you thought. Or what if you are too far into a new project you were trying out? You don't want to give up and hurt your credibility, but you've discovered that you are not passionate about the subject. We've all been through this, but sometimes volunteering for a project of this flavor is an easier way to pass up this unfortunate circumstance.  
 
-Personal Experience: I'm not interested in Minecraft after helping kids learn to code in Minecraft. This doesn't mean all games in general, but I really wasn't inspired at all by Minecraft. 
+Personal Experience: I'm not interested in Minecraft after helping kids learn to code in it. 
 
 <br> 
 ## 2.0 Fun Group Projects
 Almost every interviewer wants to know the details on the group projects you've worked on. But it's hard to get a long list of big group projects on your resume before graduating. *Have no fear, volunteering is here!* If you don't have the time to sign on to a big group project, try looking for a short term, big group volunteer opportunity. Maybe a weekend clean up crew or workshop activity to help in. Anything that shows that you worked with others and participated in planning and separating tasks will look great to an employer. Plus, it will help you learn what group position you feel most comfortable in. Do you like taking the lead in decisions or would you rather help out with what needs to get done. 
 
-Personal Experience: I enjoyed so many projects that I did through the local hackerspace (HiCapacity). When people show up to a place on a whim that something cool in tech might be going on, there's bound to be cool and creative projects that come together. Also shoutout to the Transpiler team. I'm learning so much from everyone. We're all on different levels, but everyone is humble about it, and keeping up with the pace. 
+Personal Experience: I enjoyed so many projects that I did through the local hackerspace (HiCapacity). Everyone comes from such different backgrounds that there is always someone that will teach you something you don't know. Also shoutout to the Transpiler project team. I'm learning so much from everyone. We're all on different levels, but everyone is humble about it, and keeping up with the pace. 
 
 <br> 
 ## 2.1 Awkward Group Projects
@@ -57,5 +57,5 @@ The making friends, feeling good about yourself, and help make the world a bette
 
 Now the feel good about yourself part should be a given. No matter how small the task, if you weren't there to do it, it means that someone else would have needed to do it, or it would not have gotten done. Sometimes even little gestures can make a big difference. So you should feel good for helping make someone's life a little easier, which in the end, will <b>make the world a better place</b>. 
 
-<img class="ui medium middle floated rounded image" src="../images/volunteer_elf.jpeg">
+<img class="ui medium center rounded image" src="../images/volunteer_elf.jpeg">
 
