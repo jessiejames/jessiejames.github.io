@@ -51,7 +51,7 @@ The proposed GPri would perform the same way that an ink jet printer would, exce
 
 
 ## Software Development
-<br><div class= "ui image">
+<div class= "ui image">
   <img class="ui image" src="../images/printer_diagram.png" align="middle">
 </div>
 <br><br>
