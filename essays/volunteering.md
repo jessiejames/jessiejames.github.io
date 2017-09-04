@@ -18,6 +18,7 @@ In some ways, I've been a volunteer junkie my whole life. Whether it was getting
 
 However, as time has progressed, I have decided that some of my best professional decisions were my volunteer experiences. Now I'm not going to talk about the butterfly stories and sugar coated reasons that your high school counserlors told you: *"you'll make friends, you'll feel good about helping someone, you'll make the world a better place"*. The reasons I'll present are strictly career oriented. 
 
+<br>
 ## 1.0 You'll Learn What You Like
 When entering the realm of tech, there are soooo many niches that you can work in: cybersecurity, embedded systems, web dev, dev ops, big data, AI, AR, VR, IoT, and the list goes on. There is NO way that you will have enough time to take courses on each of these subjects individually. Of course there are free online tutorials, but is that what *working* in that field is like? 
 
