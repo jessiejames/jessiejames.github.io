@@ -108,9 +108,10 @@
   "work": [
     {
       "company": "Spawar Systems Center Pacific",
-      "position": "Computer Engineering Intern",
+      "position": "Computer Engineering Summer Intern",
       "website": "http://www.public.navy.mil/spawar/Pacific/Pages/default.aspx",
-      "date": "Summer 2017",
+      "startDate": "",
+      "endDate": "2017",
       "summary": "Assembled and Programmed a Liquid Metal Deposition System",
       "highlights": [
         "Goal: provide the lab with a prototyping tool that would be used to print Graphene transistor channels for experiment samples.", 
@@ -121,7 +122,7 @@
     },
     {
       "company": "Spawar Systems Center Pacific",
-      "position": "Computer Engineering Intern",
+      "position": "Computer Engineering Summer Intern",
       "website": "http://www.public.navy.mil/spawar/Pacific/Pages/default.aspx",
       "startDate": "2016-05-23",
       "endDate": "2016-07-28",
