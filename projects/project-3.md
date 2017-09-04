@@ -16,7 +16,7 @@ summary: The making of a liquid metal printer.
 <div class="ui small rounded images">
   <img class="ui image" src="../images/printer_big.JPG">
   <img class="ui image" src="../images/printer_logo.JPG">
-  <img class="ui image" src="../images/printer_metal.JPG">
+  <img class="ui image" src="../images/priter_metal.JPG">
   <img class="ui image" src="../images/printer_diagram.JPG">
 </div>
 
