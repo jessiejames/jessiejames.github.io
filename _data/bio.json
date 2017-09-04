@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "Jessica Grazziotin",
         "url": "https://www.linkedin.com/in/jessica-grazziotin-531530100/"
-      },
-      {
-        "network": "instagram",
-        "username": "jessie_b_g",
-        "url": "https://www.instagram.com/jessie_b_g/?hl=en"
       }
     ]
   },
@@ -116,7 +111,7 @@
       "position": "Computer Engineering Intern",
       "website": "http://www.public.navy.mil/spawar/Pacific/Pages/default.aspx",
       "startDate": "May",
-      "endDate": "July-2017",
+      "endDate": "July 2017",
       "summary": "Assembled and Programmed a Liquid Metal Deposition System",
       "highlights": [
         "Goal: provide the lab with a prototyping tool that would be used to print Graphene transistor channels for experiment samples.", 
@@ -155,23 +150,10 @@
     }
   ],
   "volunteer": [
-    {
+     {
       "organization": "",
       "website": "",
-      "position": "Volunteer Workshop Planning, Directing, and Recruiting",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Recruited students, faculty, and members of the community to participate in tech related events",
-      "highlights": [
-        "Fashion Tech designer Anouk Wipprecht lead the workshop which consisted of hackers, makers, and fashion designers",
-        "I reached out to students and faculty in Hawaii to encourage them to participate in this community event",
-        "I also helped with organizing the different subprojects and communicating between the guests and head organizers"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "position": "Professional Organization Involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
@@ -181,6 +163,19 @@
         "Associate Board Member, IEEE Student Branch, UH Manoa, 2016-Present",
         "Director of Media and Marketing, Engineers for a Sustainable World, KCC, 2015-2016",
         "Event Organizer, HiCapacity (Hackerspace), Honolulu, HI, 2015-Present"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Volunteer Workshop Planning, Directing, and Recruiting",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Events include HI-Fi Fashion Tech Workshop, Haunted Hack Night, & Ladies in Tech Night",
+      "highlights": [
+        "HI-Fi Fashion Tech Workshop - Fashion Tech designer Anouk Wipprecht lead the workshop which consisted of hackers, makers, and fashion designers to create two full outfits",
+        "Haunted Hack Night - Students and local hackers and makers met at Kapiolani Community College to geek out and show their projects",
+        "Ladies in Tech Night - Women and men from the community and university were invited to the Manoa Innovation Center to discuss women in the tech field in Honolulu (the problems, the perks, and how to get girls involved)"
       ]
     },
     {
