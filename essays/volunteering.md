@@ -7,9 +7,8 @@ labels:
   - volunteering, networking, experience, new skills, group projects, resume building
 ---
 
-<img class="ui medium right floated rounded image" src="../images/e_javascript_coming.jpg">
 
-<center> ## *It's Easy to See That Time is Money* </center>
+## *It's Easy to See That Time is Money*
 # SO WHY NOT SEE VOLUNTEERING AS AN INVESTMENT?
 
 <br> 
@@ -38,11 +37,11 @@ Almost every interviewer wants to know the details on the group projects you've 
 Similar to 1.1, this follows up on 2.0. A very important story that interviewers look for is how you handled an awkward or even miserable group experience. Wheter it was a bad egg on the team or a misunderstanding of responsibilities, bad group experiences are important lessons that everyone must go through to prepare them for the future. Why? Because it will never go away. That's right, even as adolecents become adults, these awkward situations pop up in the workplace and an employer wants to know that you won't go postal or give up just because the team isn't working well together. So by volunteering, you get a chance to test the waters, and if the group experience is bad, at least it doesn't affect your grade, or worse, your paycheck. You can also test out different methods to solve these issues like talking about it with a mentor, or just confronting the person straight on. These decisions might be more risky in a work or class setting, but as a volunteer, you won't feel as worried to test the waters. 
 
 ## 3.0 Networking
-If you don't already know the merit in networking, then I wish you luck on all of your future endeavors. I, however, have seen networking to be the primary first foot in the door for many job positions. This is why I really like volunteering for community tech events. School led tech events are great, but they usually are primarily made up of student volunteers who are all at the same experience level. Volunteering for community events allows you to network with individuals who are working in the industry. These connections could turn into great reference letters, recommendations, or just general insight to gain about working in the industry at a certain location. Maybe you'll find out about a company that you hadn't heard of or a position that is opening up somewhere soon. You never know whose hand your shaking. 
-
-<br>
+If you don't already know the merit in networking, then I wish you luck on all of your future endeavors. I, however, have seen networking to be the primary first foot in the door for many job positions. This is why I really like volunteering for community tech events.
 <img class="ui small left floated rounded image" src="../images/volunteer_networking.jpg">
-<br><br>
+School led tech events are great, but they usually are primarily made up of student volunteers who are all at the same experience level. Volunteering for community events allows you to network with individuals who are working in the industry. These connections could turn into great reference letters, recommendations, or just general insight to gain about working in the industry at a certain location. Maybe you'll find out about a company that you hadn't heard of or a position that is opening up somewhere soon. You never know whose hand your shaking. 
+
+
 
 ## 4.0 
 
