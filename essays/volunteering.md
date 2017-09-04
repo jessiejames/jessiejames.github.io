@@ -14,14 +14,16 @@ labels:
 <br> 
 In some ways, I've been a volunteer junkie my whole life. Whether it was getting myself involved in club leadership positions or signing my weekends away, I have always found someway to be helping in a million activities that I'm not getting paid for. 
 
-<br>
-<img class="ui image" src="../images/volunteer_tribute.jpg">
-<br>
+<img class="ui medium left floated rounded image" src="../images/volunteer_tribute.jpg">
 
-However, as time has progressed, I have decided that some of my best professional decisions were to volunteer. Now I'm not going to talk about the butterfly stories and sugar coated reasons that your high school counserlors told you: *"you'll make friends, you'll feel good about helping someone, you'll make the world a better place"*. The reasons I'll present are strictly career oriented. 
+However, as time has progressed, I have decided that some of my best professional decisions were my volunteer experiences. Now I'm not going to talk about the butterfly stories and sugar coated reasons that your high school counserlors told you: *"you'll make friends, you'll feel good about helping someone, you'll make the world a better place"*. The reasons I'll present are strictly career oriented. 
 
 ## 1.0 You'll Learn What You Like
-When entering the realm of tech, there are soooo many niches that you can work in: cybersecurity, embedded systems, web dev, dev ops, big data, AI, AR, VR, IoT, and the list goes on. There is NO way that you will have enough time to take courses on each of these subjects individually. Of course there are free online tutorials, but is that what *working* in that field is like? Why not volunteer for something that you're interested in. If there's a hackathon based on one of these topics, and you're really interested, but your imposter syndrome won't let you sign up. Or you just don't have time to dedicate all weekend, but you have maybe a few hours to spare: <b>try volunteering to help at the <insert interest> hackathon!</b> Even though you won't be on a team, you will probably find some time to hop in and see what the teams are doing and ask questions. In doing this, you can get a quick feel for what this niche is all about by seeing more than one example in a short amount of time. 
+When entering the realm of tech, there are soooo many niches that you can work in: cybersecurity, embedded systems, web dev, dev ops, big data, AI, AR, VR, IoT, and the list goes on. There is NO way that you will have enough time to take courses on each of these subjects individually. Of course there are free online tutorials, but is that what *working* in that field is like? 
+
+<img class="ui medium right floated rounded image" src="../images/volunteer_passion.jpg">
+
+Why not volunteer for something that you're interested in. If there's a hackathon based on one of these topics, and you're really interested, but your imposter syndrome won't let you sign up. Or you just don't have time to dedicate all weekend, but you have maybe a few hours to spare: <b>try volunteering to help at the <insert interest> hackathon!</b> Even though you won't be on a team, you will probably find some time to hop in and see what the teams are doing and ask questions. In doing this, you can get a quick feel for what this niche is all about by seeing more than one example in a short amount of time. 
 
 <br>
 <img class="ui small right floated rounded image" src="../images/volunteer_networking.jpg">
@@ -38,7 +40,9 @@ Similar to 1.1, this follows up on 2.0. A very important story that interviewers
 
 ## 3.0 Networking
 If you don't already know the merit in networking, then I wish you luck on all of your future endeavors. I, however, have seen networking to be the primary first foot in the door for many job positions. This is why I really like volunteering for community tech events.
-<img class="ui small left floated rounded image" src="../images/volunteer_networking.jpg">
+
+<img class="ui medium left floated rounded image" src="../images/volunteer_networking.jpg">
+
 School led tech events are great, but they usually are primarily made up of student volunteers who are all at the same experience level. Volunteering for community events allows you to network with individuals who are working in the industry. These connections could turn into great reference letters, recommendations, or just general insight to gain about working in the industry at a certain location. Maybe you'll find out about a company that you hadn't heard of or a position that is opening up somewhere soon. You never know whose hand your shaking. 
 
 
