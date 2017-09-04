@@ -6,7 +6,7 @@ title: GPri - Liquid Metal Printer
 permalink: projects/printer
 date: 2017
 labels:
-  - Matlab
+  - MATLAB
   - Liquid Metal
   - Galinstan
   - Gcode
@@ -14,62 +14,74 @@ labels:
   - Graphene
   - Flexible Electronics
   - Flexible Devices
+  - Virtual Machine
 summary: The making of a liquid metal printer. 
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/printer_big.JPG">
-  <img class="ui image" src="../images/printer_logo.JPG">
-  <img class="ui image" src="../images/priter_metal.JPG">
-  <img class="ui image" src="../images/printer_diagram.png">
 </div>
 
-<ul>
-  <li> Designed and constructed a galinstan (liquid metal) deposition system for automated graphene transistor prototyping, which enables smaller feature sizes and improved device performance </li>
-  <li> Synchronize 3 staged linear actuators with a microfluidic control system by creating a MATLAB interface from provided software development kits </li>
-<li> Investigate the physical properties of liquid metal and the effect those properties have for automated fluid deposition </li>
-</ul>
 
 ## Background
 The GPri is a result of my Summer internship of 2017 at SSCPAC (SPAWAR Systems Center Pacific). I was invited to work the Graphene Microfluidics Laboratory (GML). When I arrived the GML team had already passed their proof of concept phase by creating a graphene transistor. Their goal during this Summer was to miniturize their devices and my project was an effort to automate that process. Thus, the inspiration for the GPri (Galinstan Printer) was drafted. 
 
-So what is <b>Galinstan</b>? Galinstan is one of the compounds known casually as "liquid metal". It is a portmateau of its chemical components: Gal-In-Stan = Gallium, Indium, Tin (Stannum). Liquid metals are alloys that are liquid at room temperature. The Graphene Microfluidics Lab found interest in liquid metal for its potential use in flexible electronics. It also provides a more reliable contact for the source and drain of transistors, as opposed to rigid metals. 
-
 ### My overall goal for this project was to assemble, test & prototype a research instrument that deposits Galinstan with high precision accuracy (in the 10^1 microns range). 
 
-This instrument would perform the same way that an ink jet printer would, except with liquid metal. In order to achieve a *miniaturized graphene device*, the liquid metal channels (or printed lines in essence) would ideally be around 50 microns in width. 
+So what is <b>Galinstan</b>? Galinstan is one of the compounds known casually as "liquid metal". It is a portmateau of its chemical components: Gal-In-Stan = Gallium, Indium, Tin (Stannum). Liquid metals are alloys that are liquid at room temperature. The Graphene Microfluidics Lab found interest in liquid metal for its potential use in flexible electronics. It also provides a more reliable contact for the source and drain of transistors, as opposed to rigid metals. 
+
+The GPri would perform the same way that an ink jet printer would, except with liquid metal. In order to achieve a *miniaturized graphene device*, the liquid metal channels (or printed lines in essence) would ideally be around 50 microns in width. 
 
 ## Parts
-THOR LABS DRV-014 Linear Actuators + BSC203 Control Unit
 <ul>
   <li><b> THOR LABS DRV-014 Linear Actuators + BSC203 Control Unit </b></li>
   <ul>
     <li> 409,600 µSteps / 50 mm  </li>
     <li> Less than 1 µm bidirectional repeatability </li>
     <li> Up to 50 nm resolution </li>
+    <li> ActiveX Platform for MATLAB Interfacing </li>
   </ul>   
 
   <li><b> Fluigent (MFCS-EZ) Pneumatic Pressure Control System </b></li>
   <ul>
-    <li> Specifications are Specific to the Solution... No references for Liquid Metal </li>
+    <li> Performance based on fluid used.... No references for Liquid Metal </li>
+    <li> Microsoft Dynamic Link Library for MATLAB interfacing </li>
   </ul>
 </ul>
 
 
-## Software
-DRV-014 with the BSC 203
-ActiveX Platform- Microsoft Component Object Model (COM) 
-Binary Interface between OS & program
-Utilized through control containers 
-Matlab = client
-ActiveX control = server
-Accessible methods, properties and events
+## Software Development
+<div class= "ui image">
+  <img class="ui image" src="../images/printer_diagram.png">
+</div>
 
-MFCS-EZ
-Microsoft Dynamic Link Library (DLL)
-C calling convention 
-Responsible for cleaning the stack
-Function Handles - ptr to funct.
+The parts listed above were developed independently and so their provided factory software would not interface to perform our intended goal. However, both of these devices included MATLAB SDKs that allowed me to write a synchronous code, so that the GPri could function as one unit. The DRV-014 actuators (paired with the BSC 203 controller) came with an ActiveX platform. The ActiveX platform is a Microsoft Component Object Model (COM). This provides a binary interface between the OS and the program and creates a container environment. In this way, MATLAB would act as the *client*, while the ActiveX control would act as the *server*. MATLAB documentation for the ActiveX platform provides several accessible methods, properties, and events that were used to control the actuators. 
 
+The Microfluidic Control System (MFCS-EZ) could interface with MATLAB through a Microsoft Dynamic Link Library (DLL). I was happy to find that the DLL used a C calling convention because that was language background. The elements in the library were accessed through provided function handles. 
+
+## Development Process and Challenges
+Since the GPri was inteded to be a tool for the GML team, I started my design based on their typical use case. A key element in a circuit design is a map of the channels. This can be produced from a variety of CAD tools, which as a result, typically create g-code files for a CNC machine. So I wanted my software to include a G-code interpreter. By hacking a series of opensouced g-code interpreters, I was able to produce an algorithm that would translate g-code specifically for my stages. The algorithm would parse the g-code file first into used and unused commands. The used commands would go through a series of further parses to decide the vector path taken for the actuators. The used and unused commands would be stored for later analysis or debugging if necessary. While the actuators were completing the vector paths, a graph would display the movements in real time to monitor progress. 
+
+The g-code interpreter was first tested independently from the MFCS-EZ. I used a pen and attached it to the Z-stage in place of the liquid metal syringe to save costs during development. Liquid metal is very expensive and so I needed to test with a more disposable product. (See image below)
+
+<div class= "ui image">
+   <img class="ui image" src="../images/printer_logo.JPG">
+</div>
+
+The major challenges that followed were experienced during integration with the MFCS-EZ and liquid metal as a fluid. The chemical properties of liquid metal are low viscocity, but with high surface tension. Low viscocity means that the compounds break more easily and so it tends to *flow* much faster. Here are a few fluids and in order of viscocity to give a better picture: water < liquid metal < honey < peanut butter. Viscocity is what allows liquid metal to be manipulated in ways that a solid metal cannot be. However the challenging element of liquid metal is its surface tension. High surface tension means its resistance to break at its surface. Thus, when we were attempting to extrude the liquid metal from the syrigne, it would *ball up* to the syringe or the surface of the slide (see image below). This was a problem because our goal was to print and automate straight lines. We concluded from this challenge that a future task to create a successful printer would be to apply an electric field to attract the liquid metal to the surface of the glass slide. 
+
+<div class= "ui image">
+  <img class="ui image" src="../images/priter_metal.JPG">
+</div>
+
+Even though this challenge has temporarily halted the *automation* element of the printer, I was still able to test the precision of distance that the stages allowed for. 
+
+
+## Summary
+<ul>
+  <li> Designed and constructed a galinstan (liquid metal) deposition system for automated graphene transistor prototyping, which enables smaller feature sizes and improved device performance </li>
+  <li> Synchronized 3 linear actuators with a microfluidic control system by creating a MATLAB interface from provided software development kits </li>
+<li> Investigated the physical properties of liquid metal and the effect those properties have for automated fluid deposition </li>
+</ul>
 
 
