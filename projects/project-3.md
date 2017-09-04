@@ -52,7 +52,7 @@ The proposed GPri would perform the same way that an ink jet printer would, exce
 
 ## Software Development
 <div class= "ui image">
-  <img class="ui centered medium image" src="../images/printer_diagram.png">
+  <img class="ui centered small image" src="../images/printer_diagram.png">
 </div>
 
 The parts listed above were developed independently and so their provided factory software tools would not interface together to perform our intended goal. However, both of these devices included MATLAB SDKs that allowed me to write a synchronous code, so that the GPri could function as one unit. The DRV-014 actuators (paired with the BSC 203 controller) came with an ActiveX platform. The ActiveX platform is a Microsoft Component Object Model (COM). This provides a binary interface between the OS and the program and creates a container environment. In this way, MATLAB would act as the *client*, while the ActiveX control would act as the *server*. MATLAB documentation for the ActiveX platform provides several accessible methods, properties, and events that were used to control the actuators. 
