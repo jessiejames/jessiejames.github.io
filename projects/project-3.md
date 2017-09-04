@@ -8,8 +8,12 @@ date: 2017
 labels:
   - Matlab
   - Liquid Metal
+  - Galinstan
+  - Gcode
   - Material Science
   - Graphene
+  - Flexible Electronics
+  - Flexible Devices
 summary: The making of a liquid metal printer. 
 ---
 
@@ -17,7 +21,7 @@ summary: The making of a liquid metal printer.
   <img class="ui image" src="../images/printer_big.JPG">
   <img class="ui image" src="../images/printer_logo.JPG">
   <img class="ui image" src="../images/priter_metal.JPG">
-  <img class="ui image" src="../images/printer_diagram.JPG">
+  <img class="ui image" src="../images/printer_diagram.png">
 </div>
 
 <ul>
@@ -27,29 +31,32 @@ summary: The making of a liquid metal printer.
 </ul>
 
 ## Background
+The GPri is a result of my Summer internship of 2017 at SSCPAC (SPAWAR Systems Center Pacific). I was invited to work the Graphene Microfluidics Laboratory (GML). When I arrived the GML team had already passed their proof of concept phase by creating a graphene transistor. Their goal during this Summer was to miniturize their devices and my project was an effort to automate that process. Thus, the inspiration for the GPri (Galinstan Printer) was drafted. 
 
-Goals
-Assemble, test & prototype a research instrument that deposits Galinstan with high precision (µm) accuracy 
-Research Timeline
-Investigating Components 
-Assembling
-Testing Capabilities
-MATLAB
-Gcode Interpreter
-Integration & Memory
-Fluid Mechanics of Liquid Metal
+So what is <b>Galinstan</b>? Galinstan is one of the compounds known casually as "liquid metal". It is a portmateau of its chemical components: Gal-In-Stan = Gallium, Indium, Tin (Stannum). Liquid metals are alloys that are liquid at room temperature. The Graphene Microfluidics Lab found interest in liquid metal for its potential use in flexible electronics. It also provides a more reliable contact for the source and drain of transistors, as opposed to rigid metals. 
 
-Parts
+### My overall goal for this project was to assemble, test & prototype a research instrument that deposits Galinstan with high precision accuracy (in the 10^1 microns range). 
+
+This instrument would perform the same way that an ink jet printer would, except with liquid metal. In order to achieve a *miniaturized graphene device*, the liquid metal channels (or printed lines in essence) would ideally be around 50 microns in width. 
+
+## Parts
 THOR LABS DRV-014 Linear Actuators + BSC203 Control Unit
-Specifications
-409,600 µSteps / 50 mm 
-<1 µm bidirectional repeatability
-Up to 50 nm resolution
-Fluigent (MFCS-EZ)
-Pneumatic pressure control	 system 
-End Goal
-50 µm width channels
+<ul>
+  <li><b> THOR LABS DRV-014 Linear Actuators + BSC203 Control Unit </b></li>
+  <ul>
+    <li> 409,600 µSteps / 50 mm  </li>
+    <li> Less than 1 µm bidirectional repeatability </li>
+    <li> Up to 50 nm resolution </li>
+  </ul>   
 
+  <li><b> Fluigent (MFCS-EZ) Pneumatic Pressure Control System </b></li>
+  <ul>
+    <li> Specifications are Specific to the Solution... No references for Liquid Metal </li>
+  </ul>
+</ul>
+
+
+## Software
 DRV-014 with the BSC 203
 ActiveX Platform- Microsoft Component Object Model (COM) 
 Binary Interface between OS & program
@@ -65,14 +72,4 @@ Responsible for cleaning the stack
 Function Handles - ptr to funct.
 
 
-Gal-In-Stan: Gallium, Indium, Tin (Stannum)
-“Liquid Metal”
-Flexible Electronics
-Flat Surfaces Vs. Rough Surfaces
-Ideal Transistor Contacts
-Viscosity (~300 K)
-H20: 1.0 mPa s
-Mercury: 1.531 mPa s
-Galinstan: 2.4 mPa s
-Honey: 5,000 - 10,000 mPa s
-Peanut Butter: 250,000 mPa s
+
