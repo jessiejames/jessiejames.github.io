@@ -60,7 +60,9 @@ The parts listed above were developed independently and so their provided factor
 The Microfluidic Control System (MFCS-EZ) could interface with MATLAB through a Microsoft Dynamic Link Library (DLL). I was happy to find that the DLL used a C calling convention because that is the language that I'm most comfortable with. The elements in the library were accessed through provided function handles. 
 
 ## Development Process and Challenges
-My primary challenge to start was to learn MATLAB. I was barely acquainted with MATLAB prior to this project, but as I researched the tools, I quickly realized that it was very similar to C and C++. 
+My first challenge was that my hardware is a Mac. The microsoft libaries will not work on a Mac even inside of MATLAB. So I needed to create a Windows Virtual Machine (VM) before I could start this project. I used VirtualBox and after several memory partition increases, I was able to section off enough memory for the Windows VM to run on top of my Mac. 
+
+Once I solved that issue, my next challenge was to learn MATLAB. I was barely acquainted with MATLAB prior to this project, but as I researched the tools, I quickly realized that it was very similar to C and C++. 
 
 Since the GPri was inteded to be a tool for the GML team, I started my program design based on their typical use case. The team would use this instrument to print liquid metal channels for a circuit. The circuit design can be produced from a variety of CAD tools, which as a result, typically create g-code files for a CNC machine. So I wanted my software to include a G-code interpreter. By hacking a series of opensouced g-code interpreters, I was able to produce an algorithm that would translate g-code specifically for my stages. The algorithm would parse the g-code file first into used and unused commands. The used commands would go through a series of further parses to decide the vector path taken for the actuators. The used and unused commands would be stored for later analysis or debugging if necessary into separte files. 
 
