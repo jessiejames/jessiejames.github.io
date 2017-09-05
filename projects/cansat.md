@@ -11,7 +11,7 @@ labels:
   - Xbee 
   - Data Acquisition
   - Memory Management
-summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 14th place overall and 3rd place in the U.S.
+summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 13th place overall and 3rd place in the U.S.
 ---
 
 <div class="ui image">
