@@ -11,7 +11,7 @@ labels:
   - Xbee 
   - Data Acquisition
   - Memory Management
-summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 12th place overall and 3rd place in the U.S.
+summary: My team competed in the 2016 CanSat competition that simulates the landing of a payload on Mars. Our school won 14th place overall and 3rd place in the U.S.
 ---
 
 <div class="ui image">
@@ -44,7 +44,7 @@ The mass limit heavily influenced the part selection for these electronics based
 I also learned about research project presentations and project management. I took part in making several budget sheets throughout this process as well as Gantt charts and compare and contrast tables for part or design selection. Another learning lesson was in regards to working in groups. I learned how to find and highlight the strengths of each team member and how to settle disagreements under stressful circumstances. 
 
 <b> Summary: </b>
-This project really solidified my interest in Computer Engineering. Prior to this experience, I had only taken one semester of C programming and was mildly familiar with the Arduino hardware and software environment. I was very proud when I found out that our 13th place overall award was actually 3rd among the United States schools. At the time I was attending the community college here (KCC, Kapiolani Community Collge) and we were the ONLY community college competing as well. Lastly, I was excited to see how quickly I learned these new skills and finshed curious and excited to see what else could be created from learning in projects such as these. 
+This project really solidified my interest in Computer Engineering. Prior to this experience, I had only taken one semester of C programming and was mildly familiar with the Arduino hardware and software environment. I was very proud when I found out that our 14th place overall award was actually 3rd among the United States schools. At the time I was attending the community college here (KCC, Kapiolani Community Collge) and we were the ONLY community college competing as well. Lastly, I was excited to see how quickly I learned these new skills and finshed curious and excited to see what else could be created from learning in projects such as these. 
 
 
 
