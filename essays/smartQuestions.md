@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -7,6 +6,8 @@ date: 2017-09-07
 labels:
   - hacker forums, debugging, beginners
 ---
+
+
 
 # *Finding the Answers You Seek* 
 <br> 
