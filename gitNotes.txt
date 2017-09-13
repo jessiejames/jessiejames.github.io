@@ -1,0 +1,21 @@
+09/13/2017
+
+I had some errors that popped up once I downloaded the
+github desktop app. 
+
+Everything would work fine in terminal, but then after I 
+committed and tried to push, once I commanded "git push", 
+I would get this error: 
+
+
+"This repository is configured for Git LFS but 'git-lfs' was not found on your path. If you no longer wish to use Git LFS, remove this hook by deleting .git/hooks/pre-push."
+
+Also my commits were reflected in the github app but when I tried to push there I would get this error: 
+
+
+"Authentication failed. You may not have permission to access the repository. Open preferences and verify that you're signed in with an account that has permission to access this repository."
+
+So I read online that following the error message to delete the .git/hooks/pre-push file was the correct solution. So I did.  
+https://github.com/git-lfs/git-lfs/issues/853
+
+
