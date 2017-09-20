@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: VolunTOLD You So
+title: High Standards
 date: 2017-08-31
 labels:
-  - volunteering, networking, experience, new skills, group projects, resume building
+  - coding standards, language style, code inspectors, IDEs, ESLint, IntelliJ
 ---
 
 
-## *It's Easy to See That Time is Money*
-# SO WHY NOT SEE VOLUNTEERING AS AN INVESTMENT?
+## **
+
 
 <br> 
 <img class="ui medium left floated rounded image" src="../images/standards_timGunn.png">
@@ -24,7 +24,7 @@ Have you ever tried really hard to make a team or pass a test and your skills ju
 
 
 ## 2.1 Awkward Group Projects
-<img class="ui medium right floated rounded image" src="../images/volunteer_bad_group.png">
+<img class="ui medium right floated rounded image" src="../images/standards_kors.gif">
 
 
 
