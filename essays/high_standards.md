@@ -17,10 +17,12 @@ Have you ever tried really hard to make a team or pass a test and your skills ju
 <br>
 
 
-<img class="ui medium left floating rounded image" src="../images/standards_timGunn.png">
-<img class="ui small right floating rounded image" src="../images/standards_kors.gif">	
-<br>
+<img class="ui small left floating rounded image" src="../images/standards_timGunn.png">
+
+
 Well that’s about what programming with a style inspector is like. I’ve recently been trying out the IntelliJ IDE used with the ESLint style inspector and interpreter for a JavaScript assignment. Honestly, it can feel a little disheartening when you put your program out there to compile, knowing it will work, only to feel the shade from the eyes of the compiler as it becomes your harshest critic. The screen fills with red lines screaming “not good enough”. In the beginning this was really frustrating to deal with. After a little googling, I was able to find the ESLint documentation though. That really helped me narrow down the correct syntax that would solve my errors and stop the “sass” from IntelliJ. 
+
+<img class="ui small right floating rounded image" src="../images/standards_kors.gif">	
 
 <br>
 
