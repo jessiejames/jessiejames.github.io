@@ -12,7 +12,7 @@ labels:
 
 <br>
 
-Have you ever tried really hard to make a team or pass a test and your skills just didn’t cut it? Everyone has experienced the feeling of “not being good enough”. Sometimes this is for good reason: you shouldn’t pass a driving test, if you prove that you know the laws of the road and how to operate a vehicle accordingly. Other times, however, you feel like you were being underestimated or even judged for reasons that were trivial or even pompous. The worst example would be something similar to those teeny bop movies with the bullying scenes where you “weren’t cool enough” to sit at that lunch table. 
+Have you ever tried really hard to make a team or pass a test and your skills just didn’t cut it? Everyone has experienced the feeling of “not being good enough”. Sometimes this is for good reason: you shouldn’t pass a driving test, if you prove that you know the laws of the road and how to operate a vehicle accordingly. Other times, however, you feel like you were being underestimated or even judged for reasons that were trivial or even pompous. The worst example would be something similar to those vicious reality TV shows where you're judged up against your peers in front a panel of experts.... *roll the memes*
 
 <br><br> 
 
@@ -22,7 +22,7 @@ Well that’s about what programming with a style inspector is like. I’ve rece
 
 <img class="ui small medium floated rounded image" src="../images/standards_kors.gif">	
 
-The screen fills with red lines screaming “not good enough”. In the beginning this was really frustrating to deal with. After a little googling, I was able to find the ESLint documentation though. That really helped me narrow down the correct syntax that would solve my errors and stop the “sass” from IntelliJ. 
+The screen fills with red lines screaming *error*. In the beginning this was really frustrating to deal with. After a little googling, I was able to find the ESLint documentation though. That really helped me narrow down the correct syntax that would solve my errors and stop the *sass* from IntelliJ. 
 
 
 
