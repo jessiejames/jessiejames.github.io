@@ -12,12 +12,12 @@ labels:
 # SO WHY NOT SEE VOLUNTEERING AS AN INVESTMENT?
 
 <br> 
-<img class="ui medium left floated rounded image" src="../images/volunteer_tribute.jpg">
+<img class="ui medium left floated rounded image" src="../images/standards_timGunn">
 In some ways, I've been a volunteer junkie my whole life. Whether it was getting myself involved in club leadership positions or signing my weekends away, I have always found someway to be helping in a million activities that I'm not getting paid for. However, as time has progressed, I have decided that some of my best professional decisions were my volunteer experiences. Now I'm not going to talk about the butterfly stories and sugar coated reasons that your high school counserlors told you: *"you'll make friends, you'll feel good about helping someone, you'll make the world a better place"*. The reasons I'll present are strictly career oriented. 
 
 
 <br>
-<img class="ui medium right floated rounded image" src="../images/volunteer_passion.jpg">
+
 
 Have you ever tried really hard to make a team or pass a test and your skills just didn’t cut it? Everyone has experienced the feeling of “not being good enough”. Sometimes this is for good reason: you shouldn’t pass a driving test, if you prove that you know the laws of the road and how to operate a vehicle accordingly. Other times, however, you feel like you were being underestimated or even judged for reasons that were trivial or even pompous. The worst example would be something similar to those teeny bop movies with the bullying scenes where you “weren’t cool enough” to sit at that lunch table.  
 <br>
@@ -51,7 +51,7 @@ School led tech events are great, but they usually are primarily made up of stud
 Personal Experience: I got my first internship through a voluntary school project. Then I got my next internship, by volunteering for outreach events at the first internship. 
 
 ## 4.0 Ok I Lied, Everything Your Counselor Said Actually is True & Important
-<img class="ui medium right floated rounded image" src="../images/volunteer_elf.jpeg">
+<img class="ui medium right floated rounded image" src="../images/standards_gandalf.jpg">
 
 The making friends, feeling good about yourself, and help make the world a better place are actually all true. Something I had underestimated from joining all of the clubs I'm involved in at school is that I have made so many friends. It's so nice when I start a new semester and I recognize a familiar face from HKN in my classes. Or when I notice that my IEEE buddy is always heading to Starbucks the same time I am. I have met all of these people through numerous outreach events. During volunteer events you usually have some downtime to socialize a little and find out more about someone than how they did on last weeks quiz. And studies show that we as social creatures, need these bonds to be a more mentally stable, and thus, productive.  
 
