@@ -16,13 +16,17 @@ labels:
 
 <br><br> 
 
-<img class="ui small left floated rounded image" src="../images/standards_timGunn.png">
+<img class="ui medium left floated rounded image" src="../images/standards_timGunn.png">
 
-Well that’s about what programming with a style inspector is like. I’ve recently been trying out the IntelliJ IDE used with the ESLint style inspector and interpreter for a JavaScript assignment. Honestly, it can feel a little disheartening when you put your program out there to compile, knowing it will work, only to feel the shade from the eyes of the compiler as it becomes your harshest critic. The screen fills with red lines screaming “not good enough”. In the beginning this was really frustrating to deal with. After a little googling, I was able to find the ESLint documentation though. That really helped me narrow down the correct syntax that would solve my errors and stop the “sass” from IntelliJ. 
+Well that’s about what programming with a style inspector is like. I’ve recently been trying out the IntelliJ IDE used with the ESLint style inspector and interpreter for a JavaScript assignment. Honestly, it can feel a little disheartening when you put your program out there to compile, knowing it will work, only to feel the shade from the eyes of the compiler as it becomes your harshest critic. The screen fills with red lines screaming “not good enough”. 
 
-<img class="ui small right floated rounded image" src="../images/standards_kors.gif">	
+<img class="ui small medium floated rounded image" src="../images/standards_kors.gif">	
 
-<br><br>
+In the beginning this was really frustrating to deal with. After a little googling, I was able to find the ESLint documentation though. That really helped me narrow down the correct syntax that would solve my errors and stop the “sass” from IntelliJ. 
+
+
+
+<br><br><br>
 
 <t> I have to say that my post-perspective is much more grateful than my in-the-moment reception. Despite all of the frustration, about half of the errors that the debugger caught were in part due to my coding malpractice. In this way, using the inspector has already helped me improve my coding practices. Another benefit of using this coding standard is that it will make my code more readable. It would be hard to use a map app if one interface for one city was totally different from another. 
 
