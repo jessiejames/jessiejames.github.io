@@ -11,7 +11,7 @@ labels:
 ## *High Standards*
 
 <br>
-<img class="ui medium right floated rounded image" src="../images/standards_kors.gif">	
+<img class="ui image" src="../images/standards_kors.gif">	
 
 Have you ever tried really hard to make a team or pass a test and your skills just didn’t cut it? Everyone has experienced the feeling of “not being good enough”. Sometimes this is for good reason: you shouldn’t pass a driving test, if you prove that you know the laws of the road and how to operate a vehicle accordingly. Other times, however, you feel like you were being underestimated or even judged for reasons that were trivial or even pompous. The worst example would be something similar to those teeny bop movies with the bullying scenes where you “weren’t cool enough” to sit at that lunch table.  
 <br>
@@ -31,7 +31,7 @@ I have to say that my post-perspective is much more grateful than my in-the-mome
 
 This is exactly the problem that coding standardization tries to solve. It’s laying out an agreed upon style for their programs so that when a third party is looking at the code, they can easily understand or find what they are looking for. Standardization in general can seem a little over centralized, but anarchy usually leads to chaos and less productivity. This is why implementing coding standards in your IDE helps you improve your skills and always stick to the same template for organizing your code. Overall, the best way I can think to describe using the ESLint inspector is basically like putting a big Gandalf between your code and the actual compiler that will check whether or not your syntax style shall pass.
 
-<img class="ui medium image" src="../images/standards_gandalf.jpg">
+<img class="ui image" src="../images/standards_gandalf.jpg">
 
 
 
