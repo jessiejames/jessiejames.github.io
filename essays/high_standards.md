@@ -12,12 +12,9 @@ labels:
 
 <br>
 
-
 <t> Have you ever tried really hard to make a team or pass a test and your skills just didn’t cut it? Everyone has experienced the feeling of “not being good enough”. Sometimes this is for good reason: you shouldn’t pass a driving test, if you prove that you know the laws of the road and how to operate a vehicle accordingly. Other times, however, you feel like you were being underestimated or even judged for reasons that were trivial or even pompous. The worst example would be something similar to those teeny bop movies with the bullying scenes where you “weren’t cool enough” to sit at that lunch table.  
-<br>
 
-
-
+<br><br> 
 
 <img class="ui small left floated rounded image" src="../images/standards_timGunn.png">
 
@@ -25,13 +22,9 @@ Well that’s about what programming with a style inspector is like. I’ve rece
 
 <img class="ui small right floated rounded image" src="../images/standards_kors.gif">	
 
-
-
-<br>
+<br><br>
 
 <t> I have to say that my post-perspective is much more grateful than my in-the-moment reception. Despite all of the frustration, about half of the errors that the debugger caught were in part due to my coding malpractice. In this way, using the inspector has already helped me improve my coding practices. Another benefit of using this coding standard is that it will make my code more readable. It would be hard to use a map app if one interface for one city was totally different from another. 
-
-
 
 <br> 
 
