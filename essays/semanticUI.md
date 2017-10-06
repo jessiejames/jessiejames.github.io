@@ -11,7 +11,7 @@ labels:
 ### Talk about a Throwback Thursday 
 Even though I have had exposure to html and css for over a decade, I just recently started studying them academically. Now the exposure I speak of takes me all the way back to my 14 year self, equal parts MCR & Destiny's Child. I am a member of the short-lived guinea pig era of the first social media platform that really exploded the net waves: MySpace. One of the coolest parts about MySpace was this ability to download html code and paste it directly into your profile. It didn't take long for websites dedicated to profile style became popular and I would use these websites to edit my page: make it black, make it pink, throw up an emo song or some country ballad depending on the middle school drudgery of the evening, change the font, etc. The point was, I could make my profile look really cool and use it to add more visual information about myself that didn't take words. It was easy to see my mood, what inspired me, or things I liked, depending on the style and what I linked into my profile page. 
 
-<br><br> 
+<br>
 
 ### It's not what you can do for design, it's what design can do for you
 <img class="ui medium right floated image" src="https://ehkoo.github.io/semantic-ui-examples/images/theme.png">
