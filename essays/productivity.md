@@ -7,8 +7,6 @@ labels:
   - work management, productivity, multi-tasking, foucs
 ---
 
-<img class="ui centered image" src="../images/kimK.png">
-<br>
 <center><h1> This is just a collection of sites, apps, & articles that help me become more focused and productive. </h1>
 <h2> Just tring to share with the world.  </h2></center>
  <br>
@@ -25,3 +23,4 @@ It's called [*Constantly Getting Burned Out? These 3 Things Are What Keep Me Cra
 
 
 ### ... I'm sure there will be more to come. This is a list I will continue to add to. 
+<img class="ui centered image" src="../images/kimK.png">
