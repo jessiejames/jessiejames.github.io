@@ -9,8 +9,8 @@ labels:
 
 <img class="ui centered image" src="../images/kimK.png">
 <br>
-# This is just a collections of sites and things I found that help me become more focused and productive. 
-## Just tring to share with the world. 
+<center><h1> This is just a collections of sites and things I found that help me become more focused and productive. </h1>
+<h2> Just tring to share with the world.  </h2></center>
  <br>
 
 # 1
