@@ -29,5 +29,5 @@ labels:
 <br> 
    So there you have it. That's my advice on how to solve all the problems that GOT me while using Meteor. Once you've finally got a great meteor app working I promise you'll feel a rush of pride and satisfaction just as if you were to try it on your own. Maybe as cool as finishing a Game of Thrones season or finding the perfect avocado at the store.... OR BOTH! 
 
-<img class="ui medium rounded image" src="https://static.boredpanda.com/blog/wp-content/uploads/2015/10/funny-game-of-thrones-memes-fb.jpg">
+<img class="ui centered medium rounded image" src="https://static.boredpanda.com/blog/wp-content/uploads/2015/10/funny-game-of-thrones-memes-fb.jpg">
 
