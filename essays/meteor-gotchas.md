@@ -11,7 +11,7 @@ labels:
 
 # What's got me in Meteor
 <br> 
-<img class="ui medium left floated rounded image" src="../images/smartQ_pic.jpg">
+<img class="ui medium left floated rounded image" src="https://www.anychart.com/_design/img/upload/plugins/meteor-logo.png">
      In my software engineering course we've been going over this new JS web framework called meteor. Meteor is cool because it uses pub / sub so you don't have to have the user refresh all the time. We've been using the Mongo Database with this as well. From what I've gathered, you get this little *mini-mongo* database that sits on the client side of the browser. This will help the user update the dynamic data fluidly. The meteor app will consistently check to see whether or not the mini-mongo database matches up with the database on the home server. 
 
 <br>
