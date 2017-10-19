@@ -22,5 +22,12 @@ labels:
 
 <br>
     My best advice for the newbie who is trying to figure out Meteor is to just do a guided tutorial. Let go of your courage and pride and forget that you have any experience in programming. When you go through a guided tutorial step-by-step you have the certainty that you're doing everything correctly and you're able to check yourself periodically. This helps so much in debugging, because you'll know the last place where you had everything working correctly and if you have to scrap anything, at least you won't have to start from scratch. 
+    
+<br> 
+    When you're all done with the guided tutorials, then you can practice on your own. This is just as rewarding because obviously you're going to be influenced by the guided tutorial as far as the steps you take to compile things. But when you do it on your own, you'll probably realize certain things that will trip you up, because the tutorial didn't do it in that order. Or maybe you'll come across a different method the tutorial wasn't pursuing that will trip you up. And it's always nice to learn new features. 
+    
+<br> 
+   So there you have it. That's my advice on how to solve all the problems that GOT me while using Meteor. Once you've finally got a great meteor app working I promise you'll feel a rush of pride and satisfaction just as if you were to try it on your own. Maybe as cool as finishing a Game of Thrones season or finding the perfect avocado at the store.... OR BOTH! 
 
+<img class="ui medium rounded image" src="https://static.boredpanda.com/blog/wp-content/uploads/2015/10/funny-game-of-thrones-memes-fb.jpg">
 
