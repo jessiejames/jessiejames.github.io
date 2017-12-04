@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Game of Code - The Design Patterns of Westeros
+title: Game of Code - The Designers of Westeros
 date: 2017-11-30
 labels:
   - coding design patterns, factory, prototype, singleton, pub-sub, observer, gof, gang of four
@@ -24,16 +24,17 @@ She may be small, but she's got a lot in store for you. If this girl can't copy 
 Bum bum buuuuuum. This creeeeep is the MVP of the MVC design model. Model - View - Control is how most websites *control* a hidden database behind closed doors. There is a *model* that explains how they decide what a client can *view*. This reminded me of Little Finger because he's always trying to keep some secret plan covered up and you never really know what his motives are or how he got in the position he's in. But as for the viewers it doesn't matter because they're just trying to get back to Winterfell or whereever they need to go on a website. 
 
 ### Flow Control / Router = Varys
-This is the guy you need for a royal court because he's got all the connections. 
+This is the guy you need for a royal court because he's got all the connections. A flow control model helps delegate which routes should flow to where. Whether you know it or not, they've got their eyes on who is talking to who and where. Varys is like a mean girls gossip queen trapped in an eunuchs body. So he knows about all the connections and who is talking to who. 
 
 ### Observer: Pub - Sub = Tyrion
 Did someone say Pub?? Tyrion is the hand of the queen for Danaerys so he's got to keep up with all of her subscribers and he publishes the news to her and them anytime something has changed or been updated. This is how one way of the Observer method works (or pub-sub). It has a publisher that handles subscriptions to the data base and it updates all of the subscribers asynchronously. 
 
 ### Observer: Reactive = Jon Snow
-hero, when you call he'll come
+Jon Snow is of course the hero who is just trying to be extra and save the day when something has happened. So I thought he would be the perfect match for Reactive programming models. This is similar to pub - sub and other observer models that sort of do so for you without having to ask them to. A reactive funtion is aware of its state so that if it changes it updates whatever needs to be updated or notified. Jon Snow is like this in that, he's ready to save the day at any moment. 
 
 ### Singleton = Dany
-bend the knee, only one instance and only one true queen 
+bend the knee, only one instance and only one true queen
+Out of all of the analogies I feel like this one was the most perfect match. Singletons is a classic way in programming to make sure that only one instance of a program is created. In other words, all other instances must bend the knee. 
 
 ### Factory = Queen Cersei
 If there is one thing you can praise Cersei on it's running a tight ship. She's always got everything plotted and organized, never mixing business where it doesn't belong. People might be aware of all the pockets she's got her hands into, but she makes sure they don't know about all the details of one another. Factory design code acts similar to that (or more like a factory) in that it designs some units that will encapuslate and trickle down while others are just side branches doing a compeletely other set of tasks. Either way there's a factory overseeing all of the different subgroups and controlling their access to one anthother. 
