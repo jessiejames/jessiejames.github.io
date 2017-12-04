@@ -47,7 +47,9 @@ Quick summary:
 - Tommen    -  yea... that was sad
 Not sure what's going on down there anymore, but Dany is about to show them what real lava is all about. Anti-patterns are coding design patters that just shouldn't be repeated. The Lava Flow pattern is what happens when someone leaves crappy code somewhere and no one wants to mess with it. So it just becomes this hot mess everyone is avoiding until it's been there so long that it just solidfies and no one can move it. Eventually people build on top of it and it becomes part of the foundation and pontentially a risk for the whole program to fall apart. 
 
+## Ok back to reality....
 
+So in school I've had the opportunity to work with projects that implement several of these patterns. One example of this is in my software engineering class where we complete a project using the Meteor frame work. Meteor frameworks use the pub sub method to handle its updates asynchronously. This is done by storing a little database known as minimongo that is held on each client and it stores enough data necessary so that a subscriber can u
 
 gang of 4, C++ 23 design patterns, classic
 
