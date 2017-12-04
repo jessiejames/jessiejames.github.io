@@ -18,27 +18,35 @@ I learn through analogy, examples, and humor. So I'm currently learning about Pr
 ## What Design Pattern Are You? Game of Thrones Style
 
 ### Prototype = Arya
+<img class="ui small left floated rounded image" src="http://www.newstalk.com/content/000/images/000147/151623_54_news_hub_137623_656x500.jpg">
 She may be small, but she's got a lot in store for you. If this girl can't copy paste, I don't know who can. Ayra is the main contender for prototyping because all she needs is her templates/ skinned off faces to just face change into a new person. Prototyping reminded me of her because it uses classes to create these cookie cutter classic object oriented methods that can be reimplemented again for later. 
 
 ### MVC: Model - View - Control = Little Finger / Lord Baelish
+<img class="ui small right floated rounded image" src="https://vignette.wikia.nocookie.net/gameofthrones/images/9/90/Petyr_s6.png/revision/latest?cb=20160828101144&path-prefix=tr">
 Bum bum buuuuuum. This creeeeep is the MVP of the MVC design model. Model - View - Control is how most websites *control* a hidden database behind closed doors. There is a *model* that explains how they decide what a client can *view*. This reminded me of Little Finger because he's always trying to keep some secret plan covered up and you never really know what his motives are or how he got in the position he's in. But as for the viewers it doesn't matter because they're just trying to get back to Winterfell or whereever they need to go on a website. 
 
 ### Flow Control / Router = Varys
+<img class="ui small left floated rounded image" src="https://cdn.pastemagazine.com/www/articles/VARYS-GAME-OF-THRONES-quotes.jpg">
 This is the guy you need for a royal court because he's got all the connections. A flow control model helps delegate which routes should flow to where. Whether you know it or not, they've got their eyes on who is talking to who and where. Varys is like a mean girls gossip queen trapped in an eunuchs body. So he knows about all the connections and who is talking to who. 
 
 ### Observer: Pub - Sub = Tyrion
+<img class="ui small right floated rounded image" src="http://i.telegraph.co.uk/multimedia/archive/03295/Tyrion_1_3295189b.jpg">
 Did someone say Pub?? Tyrion is the hand of the queen for Danaerys so he's got to keep up with all of her subscribers and he publishes the news to her and them anytime something has changed or been updated. This is how one way of the Observer method works (or pub-sub). It has a publisher that handles subscriptions to the data base and it updates all of the subscribers asynchronously. 
 
 ### Observer: Reactive = Jon Snow
+<img class="ui small left floated rounded image" src="https://metrouk2.files.wordpress.com/2017/03/jon-snow-game-of-thrones1.jpg?w=748&h=374&crop=1">
 Jon Snow is of course the hero who is just trying to be extra and save the day when something has happened. So I thought he would be the perfect match for Reactive programming models. This is similar to pub - sub and other observer models that sort of do so for you without having to ask them to. A reactive funtion is aware of its state so that if it changes it updates whatever needs to be updated or notified. Jon Snow is like this in that, he's ready to save the day at any moment. 
 
 ### Singleton = Daenerys
+<img class="ui small right floated rounded image" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_1OyxlvHXAhVHy2MKHZ7vAsoQjRwIBw&url=http%3A%2F%2Fwww.digitalspy.com%2Ftv%2Fgame-of-thrones%2Fnews%2Fa836675%2Fdid-game-of-thrones-season-7-finale-tyrion-betrays-daenerys-theory%2F&psig=AOvVaw3GSl4Q0oHRYDxyTJcHYljq&ust=1512504999267868">
 Out of all of the analogies I feel like this one was the most perfect match. Singletons are a classic way in programming to make sure that only one instance of a program is created. In other words, all other instances must bend the knee. If you're not watching the show, Daenerys is the (as far as everyone knows) is the rightful born heir to the thrown and she's not going to backdown until all other kings bend the knee and accept her as queen. 
 
 ### Factory = Queen Cersei
+<img class="ui small left floated rounded image" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cersei-euron-gift-1500579238.png?crop=1.00xw:0.892xh;0,0.0684xh&resize=980:*">
 If there is one thing you can praise Cersei on it's running a tight ship. She's always got everything plotted and organized, never mixing business where it doesn't belong. People might be aware of all the pockets she's got her hands into, but she makes sure they don't know about all the details of one another. Factory design code acts similar to that (or more like a factory) in that it designs some units that will encapuslate and trickle down while others are just side branches doing a compeletely other set of tasks. Either way there's a factory overseeing all of the different subgroups and controlling their access to one anthother. 
 
 ### Anti-Patterns: Lava Flow = All the Kings
+<img class="ui small right floated rounded image" src="http://digitalspyuk.cdnds.net/16/25/980x490/landscape-1466683466-aerys.jpg">
 Quick summary: 
 - Aerys     -  Mad King
 - Robert B  -  Drunk
