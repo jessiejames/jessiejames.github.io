@@ -6,6 +6,47 @@ date: 2017-11-30
 labels:
   - coding design patterns, factory, prototype, singleton, pub-sub, observer, gof, gang of four
 ---
+# Game of Code
+* spoiler disclosure - I am not responsible for any spoilers that I may unintentionally give away * 
+
+I learn through analogy, examples, and humor. So I'm currently learning about Programming Design Patterns and the Gang of Four and all the Classic Jazz of Software Development.... and thinking of Game sof Thrones of course? So I thought I would put together one of those "What GoT Character are you?!?" sets for Design Patterns and hopefully you'll be able to... 
+- Learn Something New? 
+- Laugh? 
+- Start Watching Game of Thrones? 
+- All 3? 
+
+## What Design Pattern Are You? Game of Thrones Style
+
+### Prototype = Arya
+She may be small, but she's got a lot in store for you. If this girl can't copy paste, I don't know who can. Ayra is the main contender for prototyping because all she needs is her templates/ skinned off faces to just face change into a new person. Prototyping reminded me of her because it uses classes to create these cookie cutter classic object oriented methods that can be reimplemented again for later. 
+
+### MVC: Model - View - Control = Little Finger / Lord Baelish
+Bum bum buuuuuum. This creeeeep is the MVP of the MVC design model. Model - View - Control is how most websites *control* a hidden database behind closed doors. There is a *model* that explains how they decide what a client can *view*. This reminded me of Little Finger because he's always trying to keep some secret plan covered up and you never really know what his motives are or how he got in the position he's in. But as for the viewers it doesn't matter because they're just trying to get back to Winterfell or whereever they need to go on a website. 
+
+### Flow Control / Router = Varys
+This is the guy you need for a royal court because he's got all the connections. 
+
+### Observer: Pub - Sub = Tyrion
+Did someone say Pub?? Tyrion is the hand of the queen for Danaerys so he's got to keep up with all of her subscribers and he publishes the news to her and them anytime something has changed or been updated. This is how one way of the Observer method works (or pub-sub). It has a publisher that handles subscriptions to the data base and it updates all of the subscribers asynchronously. 
+
+### Observer: Reactive = Jon Snow
+hero, when you call he'll come
+
+### Singleton = Dany
+bend the knee, only one instance and only one true queen 
+
+### Factory = Queen Cersei
+If there is one thing you can praise Cersei on it's running a tight ship. She's always got everything plotted and organized, never mixing business where it doesn't belong. People might be aware of all the pockets she's got her hands into, but she makes sure they don't know about all the details of one another. Factory design code acts similar to that (or more like a factory) in that it designs some units that will encapuslate and trickle down while others are just side branches doing a compeletely other set of tasks. Either way there's a factory overseeing all of the different subgroups and controlling their access to one anthother. 
+
+### Anti-Patterns: Lava Flow = All the Kings
+Quick summary: 
+- Aerys     -  Mad King
+- Robert B  -  Drunk
+- Joffrey   -  He deserved it
+- Tommen    -  yea... that was sad
+Not sure what's going on down there anymore, but Dany is about to show them what real lava is all about. Anti-patterns are coding design patters that just shouldn't be repeated. The Lava Flow pattern is what happens when someone leaves crappy code somewhere and no one wants to mess with it. So it just becomes this hot mess everyone is avoiding until it's been there so long that it just solidfies and no one can move it. Eventually people build on top of it and it becomes part of the foundation and pontentially a risk for the whole program to fall apart. 
+
+
 
 gang of 4, C++ 23 design patterns, classic
 
@@ -23,26 +64,4 @@ anti-pattern
 lava-flow - if they change it they're worried that it will mess up 
 
 
-Have you ever seen those trending photos of 
 
-
-
-
-
-
-# Ethical Issues for the Modern Day Programmer
-<br> 
-<img class="ui medium left floated rounded image" src="https://static01.nyt.com/images/2015/11/29/magazine/29swatting2/29swatting2-blog427.jpg">
-  Many programmers are isolated from the end user experience, so much so that they lose sight of how their code or actions can have lasting affects on others. For example, what if you were to create a software system that could scan all bluetooth devices in a room and track the users as they move throughout the building? What if you found out that your finished product was sold to an oppresive government that used it to Big Brother its people? With the way that code is compartamentally designed today, it is so easy to piece together seemingly harmless or even helpful programs into malicous tools. 
-
-<br> 
-  One example would be online hacker tutorials. Today, with the open source movement it is so easy to learn almost anything related to programming from your own back porch. For the most part, the open source movement is a wonderful way to decentralize education and open the opportunities to learn for those who might not have had it before. However, there are always a party pooper just waiting to mess up a good thing going. Several hackers have learned the tools to maliciously break into systems from open source information and online chatrooms. Sometimes their actions are minimally harmful. Sometimes it can be border line terrorism. 
- 
-<br> 
-   One example of a home hacker turned terrorist is [The Serial Swatter](https://www.nytimes.com/2015/11/29/magazine/the-serial-swatter.html). This story is extremely sad on all accounts. It starts with a teenage boy in Canada who was raised in a troubled home including domestic violence and drug dependancy. This boy found his escape through online gaming and was an active member of an online gaming and streaming platform known as [Twitch](https://m.twitch.tv/). This site had a social network element to it where gamers could communicate and get to know eachother as well. It was this network that the teenage Canadian boy used to target women and harass them to illegal limits. The boy used the handle "Obnoxious" and would typically get girls attention by running a [DDoS](https://www.digitalattackmap.com/understanding-ddos/) attack on them. And force them to contact him on Skype in order for him to stop. 
-   
-<br> 
-  Eventually, he would gain more information from them through their conversations and then through other websites that they frequented. Once he had enough information to build a dangerous enough portfolio, he would threaten them with the release of their "dox" on open chat rooms. This is a term used to mean their Personal Identifiable Documentation (like birthday, full name, SSN, etc.). Sometimes he would request nude photos, other times, he just wanted them to talk to him. Finally, he would reach a level of physical harassment, where he would call and send multiple pizza orders to their house. The most dangerous tatic he used is what earned him his name though. *Obnoxious* is known also as *The Serial Swatter* because on over 40 documented times, he called false alarm SWAT teams to raid the women he was preying on. It didn't matter if they were living in a dorm, at home visiting family, or even attending high school. If they made him angry enough he would "Swat" them. His wrath spread to more than 90 girls all across the United States. 
-  
-<br> 
-  I'll save the rest of the spoilers for you to read in the link above. But one must ask themselves, how did this programmer learn to code? How far did his negative actions spread and how much misery did he cause? How many tax dollars were wasted on his harassment tactics? This is why it is soooo important to teach ethics to programmers. Software developing is a very powerful tool, and if used maliciously it can hurt a lot of people. It's important to know the ethical standards and what the consequences of not upholding them are. This is necessary to maintain the open source system that we have today. Be mindful of the motives of the users, managers, and clients of your design. #peaceLove&Code
