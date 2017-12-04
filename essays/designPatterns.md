@@ -32,9 +32,8 @@ Did someone say Pub?? Tyrion is the hand of the queen for Danaerys so he's got t
 ### Observer: Reactive = Jon Snow
 Jon Snow is of course the hero who is just trying to be extra and save the day when something has happened. So I thought he would be the perfect match for Reactive programming models. This is similar to pub - sub and other observer models that sort of do so for you without having to ask them to. A reactive funtion is aware of its state so that if it changes it updates whatever needs to be updated or notified. Jon Snow is like this in that, he's ready to save the day at any moment. 
 
-### Singleton = Dany
-bend the knee, only one instance and only one true queen
-Out of all of the analogies I feel like this one was the most perfect match. Singletons is a classic way in programming to make sure that only one instance of a program is created. In other words, all other instances must bend the knee. 
+### Singleton = Daenerys
+Out of all of the analogies I feel like this one was the most perfect match. Singletons are a classic way in programming to make sure that only one instance of a program is created. In other words, all other instances must bend the knee. If you're not watching the show, Daenerys is the (as far as everyone knows) is the rightful born heir to the thrown and she's not going to backdown until all other kings bend the knee and accept her as queen. 
 
 ### Factory = Queen Cersei
 If there is one thing you can praise Cersei on it's running a tight ship. She's always got everything plotted and organized, never mixing business where it doesn't belong. People might be aware of all the pockets she's got her hands into, but she makes sure they don't know about all the details of one another. Factory design code acts similar to that (or more like a factory) in that it designs some units that will encapuslate and trickle down while others are just side branches doing a compeletely other set of tasks. Either way there's a factory overseeing all of the different subgroups and controlling their access to one anthother. 
