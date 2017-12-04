@@ -9,7 +9,7 @@ labels:
 # Game of Code
 *spoiler disclosure - I am not responsible for any spoilers that I may unintentionally give away* 
 
-I learn through analogy, examples, and humor. So I'm currently learning about Programming Design Patterns and the Gang of Four and all the Classic Jazz of Software Development.... and thinking of Game sof Thrones of course? So I thought I would put together one of those "What GoT Character are you?!?" sets for Design Patterns and hopefully you'll be able to... 
+I learn through analogy, examples, and humor. So I'm currently learning about Programming Design Patterns and the Gang of Four and all the Classic Jazz of Software Development.... and thinking of Game of Thrones of course? So I thought I would put together one of those "What GoT Character are you?!?" sets for Design Patterns and hopefully you'll be able to... 
 - Learn Something New? 
 - Laugh? 
 - Start Watching Game of Thrones? 
@@ -35,11 +35,11 @@ Did someone say Pub?? Tyrion is the hand of the queen for Danaerys so he's got t
 
 ### Observer: Reactive = Jon Snow
 <img class="ui small left floated rounded image" src="https://metrouk2.files.wordpress.com/2017/03/jon-snow-game-of-thrones1.jpg?w=748&h=374&crop=1">
-Jon Snow is of course the hero who is just trying to be extra and save the day when something has happened. So I thought he would be the perfect match for Reactive programming models. This is similar to pub - sub and other observer models that sort of do so for you without having to ask them to. A reactive funtion is aware of its state so that if it changes it updates whatever needs to be updated or notified. Jon Snow is like this in that, he's ready to save the day at any moment. 
+Jon Snow is of course the hero who is just trying to be extra and save the day when something has happened. So I thought he would be the perfect match for Reactive programming models. This is similar to pub - sub and other observer models that sort of do so for you without having to ask them to. A reactive funtion is aware of its state so that if it changes it updates whatever needs to be updated or notified. Jon Snow is like this in that, he's just waiting on his next moment to swoop in and save the day.
 
 ### Singleton = Daenerys
-<img class="ui small right floated rounded image" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_1OyxlvHXAhVHy2MKHZ7vAsoQjRwIBw&url=http%3A%2F%2Fwww.digitalspy.com%2Ftv%2Fgame-of-thrones%2Fnews%2Fa836675%2Fdid-game-of-thrones-season-7-finale-tyrion-betrays-daenerys-theory%2F&psig=AOvVaw3GSl4Q0oHRYDxyTJcHYljq&ust=1512504999267868">
-Out of all of the analogies I feel like this one was the most perfect match. Singletons are a classic way in programming to make sure that only one instance of a program is created. In other words, all other instances must bend the knee. If you're not watching the show, Daenerys is the (as far as everyone knows) is the rightful born heir to the thrown and she's not going to backdown until all other kings bend the knee and accept her as queen. 
+<img class="ui small right floated rounded image" src="http://digitalspyuk.cdnds.net/17/33/980x490/landscape-1502793837-daenerys-drogon-got.jpg">
+Out of all of the analogies I feel like this one was the most perfect match. Singletons are a classic way in programming to make sure that only one instance of a program is created. In other words, all other instances must bend the knee. If you're not watching the show, Daenerys is (as far as most of Westeros knows atleast) the rightful born heir to the thrown and she's not going to backdown until all other royalty bends the knee and accepts her as queen. 
 
 ### Factory = Queen Cersei
 <img class="ui small left floated rounded image" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cersei-euron-gift-1500579238.png?crop=1.00xw:0.892xh;0,0.0684xh&resize=980:*">
