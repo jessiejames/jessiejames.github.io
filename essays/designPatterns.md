@@ -49,22 +49,8 @@ Not sure what's going on down there anymore, but Dany is about to show them what
 
 ## Ok back to reality....
 
-So in school I've had the opportunity to work with projects that implement several of these patterns. One example of this is in my software engineering class where we complete a project using the Meteor frame work. Meteor frameworks use the pub sub method to handle its updates asynchronously. This is done by storing a little database known as minimongo that is held on each client and it stores enough data necessary so that a subscriber can u
-
-gang of 4, C++ 23 design patterns, classic
-
-factory: can return multiple objects or objects from different classes, more complicated than OO
-singleton: a class with 1 & only 1 instance, not thread safe, sort of lazy or over used, anti-pattern
-observer: pub sub, subject object maintains a collection of observers and notifies them when the subject has changed state, race conditions, hard to figure out what's going on, meteor 
-
-
-model-view-control pattern: web dev common, seperate model or view from the user. database = control
-control handles what is presented of user & how teh state will change
-view presentation: html & css
-model : notifies view of changes
-
-anti-pattern
-lava-flow - if they change it they're worried that it will mess up 
+  So in school I've had the opportunity to work with projects that implement several of these patterns. One example of this is in my software engineering class where we complete a project using the Meteor frame work. Meteor frameworks use the pub sub method to handle its updates asynchronously. This is done by storing a little database known as minimongo that is held on each client. It stores enough data necessary so that a subscriber can function asynchronously while the publisher is updating.
+  This same project features serveral other design methods as well. It is a web application so the model-view-control pattern is included. The viewer side is handled mostly with the html and css files while the control handles the database. Routers are used as well in a flow control design feature that routes the buttons an client side actions to the server. Our professor even integrated a singleton and a factory (define()) method to make sure that we are getting exposure to these design patterns. Lastly, we're using javascript of course so we're exposed to the prototype model as well. 
 
 
 
