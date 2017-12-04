@@ -7,7 +7,7 @@ labels:
   - coding design patterns, factory, prototype, singleton, pub-sub, observer, gof, gang of four
 ---
 # Game of Code
-* spoiler disclosure - I am not responsible for any spoilers that I may unintentionally give away * 
+*spoiler disclosure - I am not responsible for any spoilers that I may unintentionally give away* 
 
 I learn through analogy, examples, and humor. So I'm currently learning about Programming Design Patterns and the Gang of Four and all the Classic Jazz of Software Development.... and thinking of Game sof Thrones of course? So I thought I would put together one of those "What GoT Character are you?!?" sets for Design Patterns and hopefully you'll be able to... 
 - Learn Something New? 
