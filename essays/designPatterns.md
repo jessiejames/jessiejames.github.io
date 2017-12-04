@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Game of Code - The Designers of Westeros
-date: 2017-11-30
+date: 2017-12-3
 labels:
   - coding design patterns, factory, prototype, singleton, pub-sub, observer, gof, gang of four
 ---
