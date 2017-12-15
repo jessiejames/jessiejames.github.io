@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Software Ethics
-date: 2017-12-03
+date: 2017-11-30
 labels:
   - software ethics, code of ethics
 ---
