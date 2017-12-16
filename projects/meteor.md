@@ -13,9 +13,6 @@ labels:
 summary: A web app designed to help students find their optimal study buddies on campus. 
 ---
 
-<br><br>
-
-# UH Study Net
 
 <br>
 
