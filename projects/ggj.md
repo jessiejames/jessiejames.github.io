@@ -13,28 +13,32 @@ labels:
 summary: Check out our team's game and results from the 2018 Global Game Jam competition! 
 ---
 
-# RUNba Rush
+### RUNba Rush!
 *These days EVERYTHING is a choking hazard for babies. 
 Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!*
 
-<br><br>
+<img class="ui centered image" src="../images/LandingFinal.png">
 
-<div class="ui image">
-  <img class="ui centered image" src="../images/LandingFinal.png">
-</div>
+### What's Global Game Jam? 
+<img class="ui small left floated rounded image" src="https://twitter.com/espritex/status/951740083161346048/photo/1">
 
-<br><br> 
 This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
 
-<br><br>
-## Team: 
+
+## The Challenge
+<img class="ui small right floated rounded image" src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123"> 
+
+The rules are simple. Go crazy, be creative as possible, follow the theme, and *"Fuck the MAINSTREAM!"* The party starts with an introduction to this year's theme: Transmission! Next is a brainstorming event, followed by a quick pitch session before teams are formed. After that, everyone breaks into their respective teams to *Jam*. Lots of coffee and 2 all nighters later, the teams present their games within the 48-hour time frame. 
+
+### Team Tide Pod Toddlers
 <img class="ui small left floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
 
-(Pictured from left to right) Justin Bishay, Andrew Kurano, Jessica Grazziotin, Matt Ukai, and Will
+(Pictured from left to right) 
+- Justin Bishay
+- Andrew Kurano, Jessica Grazziotin, Matt Ukai, and Will. 
 
-## Challenge
-<img class="ui small right floated rounded image" src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
 
+<br>
 
 - Challenge
 - Game Description
