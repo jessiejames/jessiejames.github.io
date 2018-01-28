@@ -20,7 +20,7 @@ Help this preoccupied babysitter transmit the right signals to a series of malfu
 <img class="ui centered image" src="../images/LandingFinal.png">
 
 ### What's Global Game Jam? 
-<img class="ui small left floated rounded image" src="https://twitter.com/espritex/status/951740083161346048/photo/1">
+<img class="ui small left floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
 
 This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
 
