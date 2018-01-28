@@ -38,9 +38,9 @@ This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a
 
 - Challenge
 - Game Description
---- Video & Links to play
+-- Video & Links to play
 - Narrative and Design
---- Logic / Puzzle 
+-- Logic / Puzzle 
 --- Silly and relative to gamers young and old
 ------- 80's music, tidepod viralness
 - Art and Audio
