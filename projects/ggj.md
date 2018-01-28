@@ -30,12 +30,11 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 
 <br><br>
 # RUNba Rush!
-<div style = "margin-left:10px;">
-  <img class="ui small centered floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
-</div>
+ <img class="ui small left floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
+<br><br><br>
 
-Summary: These days EVERYTHING is a choking hazard for babies. 
-Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death! 
+*Summary: These days EVERYTHING is a choking hazard for babies. 
+Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!* 
 [CLICK HERE TO PLAY](link)
 
 <br><br><br><br><br><br>
