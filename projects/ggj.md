@@ -59,15 +59,19 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 
 
 <br><br>
+### Results
+... will be posted once determined
 
-- TODO
+
+
+### TODO
 
 - RUNba Rush!
 --- add link to game
 --- add image from game
 --- add preview / trailer
 
-
+- Results
 
 
 
