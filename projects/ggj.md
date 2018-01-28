@@ -13,9 +13,9 @@ labels:
 summary: Check out our team's game and results from the 2018 Global Game Jam competition! 
 ---
 
-### RUNba Rush
+# RUNba Rush
 *These days EVERYTHING is a choking hazard for babies. 
-Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death!*
+Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!*
 
 <br><br>
 
@@ -23,16 +23,29 @@ Help this preoccupied babysitter transmit the right signals to malfunctioning RU
   <img class="ui centered image" src="../images/LandingFinal.png">
 </div>
 
+<br><br> 
+This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
+
 <br><br>
-The UH Study Net was a team project designed to implement the skills we have learned during our Software Engineering course at the University of Manoa. On a broad scale, these skills include front end to back end web development as well as the application of the most prevalent software design patterns. Aside from the technical skills we learned from this project, we also used issue driven developmentto handle our workflow. The version control was handled using git and in order to seperate the stages of the project we used GitHub's project feature and created a different project for each Milestone. Milestones were broad, such as a mockup phase or intial functionality phase. Within each milestone, the issues that we would bring up as a team would be picked up and worked on with individual branches for each issue. Once an issue was finished we would merge the branch to master. This allowed our team to work in parallel on multiple issues at the same time. 
-<br> <br>
-<div class="ui image">
-  <img class="ui centered image" src="../images/M1.png">
-</div>
+## Team: 
+<img class="ui small left floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
+
+(Pictured from left to right) Justin Bishay, Andrew Kurano, Jessica Grazziotin, Matt Ukai, and Will
+
+## Challenge
+<img class="ui small right floated rounded image" src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
 
 
-<br> 
-Here is a to the website github page which goes into more detail of all stages of the project: [https://uhstudynet.github.io/](https://uhstudynet.github.io/). 
+- Challenge
+- Game Description
+--- Video & Links to play
+- Narrative and Design
+--- Logic / Puzzle 
+--- Silly and relative to gamers young and old
+------- 80's music, tidepod viralness
+- Art and Audio
+- Code
+
 
 
 
