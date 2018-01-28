@@ -30,7 +30,7 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 
 <br><br>
 # RUNba Rush!
-<div>
+<div style = "margin-left:10px;">
   <img class="ui small centered floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
 </div>
 
@@ -56,8 +56,8 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 - Justin Bishay: Unity programming & game logic
 - Andrew Kurano: Unity animation
 - Jessica Grazziotin: Story design and milestone coordination
-- Matt Ukai: Audio Content
-- Will: Audio Content
+- Matt Tanji: Audio Content
+- Will Watson: Audio Content
 
 
 <br><br><br><br>
