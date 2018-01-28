@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../images/LandingFinal.png
-title: RUNba Rush
+title: RUNba Rush!
 permalink: projects/ggj
 date: 2018
 labels:
