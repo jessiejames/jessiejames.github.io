@@ -4,7 +4,7 @@ layout: project
 type: project
 image: ../images/LandingFinal.png
 title: RUNba Rush
-permalink: projects/meteor
+permalink: projects/ggj
 date: 2018
 labels:
   - Game Design
