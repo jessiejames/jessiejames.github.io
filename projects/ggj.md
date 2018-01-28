@@ -34,8 +34,8 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
   <img class="ui small centered floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
 </div>
 
-Summary: *These days EVERYTHING is a choking hazard for babies. 
-Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!* 
+Summary: These days EVERYTHING is a choking hazard for babies. 
+Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death! 
 [CLICK HERE TO PLAY](link)
 
 <br><br><br><br><br><br>
