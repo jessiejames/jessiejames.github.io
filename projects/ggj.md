@@ -20,7 +20,7 @@ This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a
 
 <br><br><br><br>
 ### The Challenge
-<img class="ui small right floated rounded image" src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123"> 
+<img class="ui medium right floated rounded image" src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123"> 
 
 The rules are simple. Go crazy, be creative as possible, follow the theme, and *"Fuck the MAINSTREAM!"* The party starts with an introduction to this year's theme: Transmission! Next is a brainstorming event, followed by a quick pitch session before teams are formed. After that, everyone breaks into their respective teams to *Jam*. Lots of coffee and 2 all nighters later, the teams present their games within the 48-hour time frame. Several [diversifier categories](https://globalgamejam.org/news/ggj18-diversifiers) are available to the teams that so dared. Team RUNba Rush! accomplished the following diversifier challenges: 
 - Art: Stranger Things
@@ -30,11 +30,11 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 
 <br><br>
 # RUNba Rush!
+<img class="ui small centered floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
+
 *These days EVERYTHING is a choking hazard for babies. 
 Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!* 
 [CLICK HERE TO PLAY](link)
-
-<img class="ui medium centered floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
 
 <br><br><br><br>
 ### Narrative / Motives / Setting
