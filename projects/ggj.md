@@ -10,12 +10,13 @@ labels:
   - Unity
   - Global Game Jam 2018
   - Open Source
-summary: Global Game Jam is an annual game design competition. Check out the game created by my team: the RUNba Rush. 
+summary: Global Game Jam is an annual game design competition.  
 ---
 
 ### RUNba Rush
-*These days EVERYTHING is a choking hazard for babies. 
-Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death! *
+These days EVERYTHING is a choking hazard for babies. 
+Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death! 
+Check out the game created by my team: the RUNba Rush.
 <br><br>
 
 <div class="ui image">
