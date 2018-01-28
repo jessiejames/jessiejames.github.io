@@ -13,7 +13,6 @@ labels:
 summary: Global Game Jam is an annual game design competition. Check out the game created by my team: the RUNba Rush. 
 ---
 
-
 <br>
 
 ### RUNba Rush
