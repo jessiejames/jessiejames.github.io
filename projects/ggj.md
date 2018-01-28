@@ -40,7 +40,7 @@ Help this preoccupied babysitter transmit the right signals to a series of malfu
 ### Narrative / Motives / Setting
 Have you ever witnessed the inevitability of a child attempting to eat the most dangerous object in the house? Have you ever used a controller that didn't quite work the way you wanted? Well as our babysitter, you will experience both today! Unbeknownst to these duck / human parents, once they leave the house this babysitter decides to invite her boyfriend over. Enjoying her company on the living room sofa, she lazily tries to use the remote controlled RUNba vaccums to clean up the hazards on the floor; hazards that a hungry toddler is trying to eat. 
 
-<img class="ui left centered floated rounded image" src="https://pixel.nymag.com/imgs/daily/selectall/2017/12/28/28-tide-pods-kid.w710.h473.jpg">
+<img class="ui small left floated rounded image" src="https://pixel.nymag.com/imgs/daily/selectall/2017/12/28/28-tide-pods-kid.w710.h473.jpg">
 
 The motive of this game is to help our babysitter clean up the hazards on the floor before the baby can eat them. Sure, some objects may be bizarre, but what isn't for a turn of the millenium duck / human species. *So hide ya weapons, hide ya tools, and hide ya Tide Pods, cuz they're eating everything in here* You'll quickly realize that some of the RUNbas aren't moving in the transmitted directions, but have instead, determined their own interpretations for your inputs (example: left arrow = down). 
 
@@ -48,7 +48,7 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 
 <br><br>
 ### Team Tide Pod Toddlers
-<img class="ui small left floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
+<img class="ui small right floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
 
 (Pictured from left to right) 
 - Justin Bishay: Unity programming & game logic
