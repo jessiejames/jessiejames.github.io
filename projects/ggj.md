@@ -10,7 +10,7 @@ labels:
   - Unity
   - Global Game Jam 2018
   - Open Source
-summary: Global Game Jam is an annual game design competition. Check out the game created by my team: the RUNba Rush.  
+summary: Check out our team's game and results from the 2018 Global Game Jam competition! 
 ---
 
 ### RUNba Rush
