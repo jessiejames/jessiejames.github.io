@@ -18,7 +18,7 @@ summary: Check out our team's game and results from the 2018 Global Game Jam com
 
 This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 ### The Challenge
 <img class="ui medium right floated rounded image" src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123"> 
 
@@ -36,7 +36,7 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!* 
 [CLICK HERE TO PLAY](link)
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 ### Narrative / Motives / Setting
 Have you ever witnessed the inevitability of a child attempting to eat the most dangerous object in the house? Have you ever used a controller that didn't quite work the way you wanted? Well as our babysitter, you will experience both today! Unbeknownst to these duck / human parents, once they leave the house this babysitter decides to invite her boyfriend over. Enjoying her company on the living room sofa, she lazily tries to use the remote controlled RUNba vaccums to clean up the hazards on the floor; hazards that a hungry toddler is trying to eat. 
 
@@ -46,7 +46,7 @@ The motive of this game is to help our babysitter clean up the hazards on the fl
 
 While playing, feel free to enjoy the old school jams mixed with easter eggs of today's top viral hits.
 
-<br><br><br><br>
+<br><br>
 ### Team Tide Pod Toddlers
 <img class="ui small right floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
 
