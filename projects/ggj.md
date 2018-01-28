@@ -18,8 +18,8 @@ summary: Global Game Jam is an annual game design competition. Check out the gam
 <br>
 
 ### RUNba Rush
-<b>*These days EVERYTHING is a choking hazard for babies. 
-Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death! *</b>
+*These days EVERYTHING is a choking hazard for babies. 
+Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death! *
 <br><br>
 
 <div class="ui image">
