@@ -14,8 +14,8 @@ summary: Check out our team's game and results from the 2018 Global Game Jam com
 ---
 
 ### RUNba Rush
-These days EVERYTHING is a choking hazard for babies. 
-Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death! 
+*These days EVERYTHING is a choking hazard for babies. 
+Help this preoccupied babysitter transmit the right signals to malfunctioning RUNba sweepers before the toddler meets sudden death!*
 
 <br><br>
 
