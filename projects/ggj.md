@@ -50,7 +50,7 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 
 <br><br>
 ## Team Tyde Pod Toddlers
-<img class="ui medium right floated rounded image"  src="../images/TPT.jpg">
+<img class="ui medium right floated rounded image"  src="../images/TPTsite.jpg">
 
 (Pictured from left to right) 
 - [Will Watson](http://odysseusadrift.wixsite.com/williamwatson): Audio & Video Content
