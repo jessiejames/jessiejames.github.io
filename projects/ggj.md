@@ -26,6 +26,8 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 - Art: Stranger Things
 - Design: Created by Warren Robinett
 - Design: Feathered Friends
+- Meta: Inception
+- Meta: Final Countdown
 
 
 <br><br>
@@ -50,7 +52,7 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 
 <br><br>
 ## Team Tyde Pod Toddlers
-<img class="ui medium right floated rounded image"  src="../images/TPTsite.jpg">
+<img class="ui medium right floated rounded image"  src="../images/TPTsite.png">
 
 (Pictured from left to right) 
 - [Will Watson](http://odysseusadrift.wixsite.com/williamwatson): Audio & Video Content
