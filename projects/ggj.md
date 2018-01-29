@@ -16,7 +16,7 @@ summary: Check out our team's game and results from the 2018 Global Game Jam com
 ## First, What's Global Game Jam? 
 <img class="ui small left floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
 
-This year at the 2018 Global Game Jam our team (Team Tidepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
+This year at the 2018 Global Game Jam our team (Team Tydepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
 
 <br><br><br><br><br><br>
 ## The Challenge
@@ -48,15 +48,15 @@ The motive of this game is to help our babysitter clean up the hazards on the fl
 While playing, feel free to enjoy the old school jams mixed with easter eggs of today's top viral hits.
 
 <br><br>
-## Team Tide Pod Toddlers
+## Team Tyde Pod Toddlers
 <img class="ui medium right floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
 
 (Pictured from left to right) 
 - Justin Bishay: Unity programming & game logic
 - Andrew Kurano: Unity animation
 - Jessica Grazziotin: Story design and milestone coordination
-- Matt Tanji: Audio Content
-- Will Watson: Audio Content
+- Matt Tanji: Media Content
+- Will Watson: Audio and Video Content
 
 
 <br><br><br><br>
@@ -72,7 +72,7 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 --- add image from game
 --- add preview / trailer
 
-- Results
+
 
 
 
