@@ -15,7 +15,7 @@ summary: Check out our team's game and results from the 2018 Global Game Jam com
 
 ## First, What's Global Game Jam? 
 <img class="ui small left floated rounded image" src="https://pbs.twimg.com/media/DTVBnngV4AENpyg.jpg:large">
-
+<br><br>
 This year at the 2018 Global Game Jam our team (Team Tydepod Toddlers) created a logic game called RUNba Rush! Here are all the details of the game and our experience. For more information about the Global Game Jam and Honolulu's Jam site click [here](https://medium.com/@spyhi/hey-honolulu-global-game-jam-2018-is-from-january-26-18-lets-get-ready-5f5c518962a). 
 
 <br><br><br><br><br><br>
@@ -30,7 +30,7 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 
 <br><br>
 # RUNba Rush!
- <img class="ui small left floated rounded image" src="../images/WelcomeScreen.png">
+ <img class="ui left floated rounded image" src="../images/WelcomeScreen.png">
 <br><br><br>
 
 *Summary: These days EVERYTHING is a choking hazard for babies. 
