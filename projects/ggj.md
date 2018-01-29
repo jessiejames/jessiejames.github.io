@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/LandingFinal.png
+image: ../images/WelcomeScreen.png
 title: RUNba Rush!
 permalink: projects/ggj
 date: 2018
@@ -69,8 +69,7 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 ### TODO
 
 - RUNba Rush!
---- add link to game
---- add image from game
+
 --- add preview / trailer
 
 
