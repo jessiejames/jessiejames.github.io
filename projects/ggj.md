@@ -49,14 +49,15 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 
 <br><br>
 ## Team Tyde Pod Toddlers
-<img class="ui medium right floated rounded image"  src="https://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/field_news_story_image_video/transmission.jpg?itok=vXkYGCpc&timestamp=1516999123">
+<img class="ui medium right floated rounded image"  src="../images/TPT.jpg">
 
 (Pictured from left to right) 
-- Justin Bishay: Unity programming & game logic
-- Andrew Kurano: Unity animation
-- [Jessica Grazziotin](https://jessiejames.github.io/): Story design and milestone coordination
-- Matt Tanji: Media Content
-- [Will Watson](http://odysseusadrift.wixsite.com/williamwatson): Audio and Video Content
+- [Will Watson](http://odysseusadrift.wixsite.com/williamwatson): Audio & Video Content
+- [Jessica Grazziotin](https://jessiejames.github.io/): Web Content & Milestone Coordination
+- Matt Tanji: Audio Content & Web Content
+- Andrew Kurano: Unity Animation & Game Logic Design
+- Justin Bishay: Unity Programming & Game Logic Design
+- Full Team: Storyline Development
 
 
 <br><br><br><br>
