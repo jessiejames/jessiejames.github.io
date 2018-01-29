@@ -35,7 +35,7 @@ The rules are simple. Go crazy, be creative as possible, follow the theme, and *
 
 *Summary: These days EVERYTHING is a choking hazard for babies. 
 Help this preoccupied babysitter transmit the right signals to a series of malfunctioning RUNba sweepers before the toddler meets sudden death!* 
-[CLICK HERE TO PLAY](link)
+[CLICK HERE FOR THE RUNBA RUSH! OFFICIAL GLOBAL GAME JAM SITE TO PLAY](https://globalgamejam.org/2018/games/runba-rush)
 
 <br><br><br><br><br><br>
 ## Narrative / Motives / Setting
