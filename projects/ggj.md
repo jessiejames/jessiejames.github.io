@@ -54,9 +54,9 @@ While playing, feel free to enjoy the old school jams mixed with easter eggs of 
 (Pictured from left to right) 
 - Justin Bishay: Unity programming & game logic
 - Andrew Kurano: Unity animation
-- Jessica Grazziotin: Story design and milestone coordination
+- [Jessica Grazziotin](https://jessiejames.github.io/): Story design and milestone coordination
 - Matt Tanji: Media Content
-- Will Watson: Audio and Video Content
+- [Will Watson](http://odysseusadrift.wixsite.com/williamwatson): Audio and Video Content
 
 
 <br><br><br><br>
