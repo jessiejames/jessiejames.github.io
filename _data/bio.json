@@ -113,10 +113,7 @@
       "endDate": "2018",
       "summary": "Investigating virtual or augmented reality (VR or AR) environments for immersive education.",
       "highlights": [
-        "Goal: provide the lab with a prototyping tool that would be used to print Graphene transistor channels for experiment samples.", 
-        "Purpose: This benefits the lab by eliminating the need to purchase the standard high cost equipment such as a bio-printer.", 
-        "Main Components: Thor Labs Linear Actuators, Fluigent Microfluidics Control System, Matlab",
-        "Results: successfully programed the 3D actuators to parse .stl and .gcode files and interface with the microfluidic control system"
+        "Technology platforms to explore: HTC VIVE, HoloLens, Vuforia, Kinect sensor, Amazon Echo"
       ]
     },
     {
@@ -127,7 +124,10 @@
       "endDate": "2017",
       "summary": "Assembled and Programmed a Liquid Metal Deposition System",
       "highlights": [
-        "Technology platforms to explore: HTC VIVE, HoloLens, HMD, Leap Motion controllers, Kinect sensor, Amazon Echo"
+        "Goal: provide the lab with a prototyping tool that would be used to print Graphene transistor channels for experiment samples.", 
+        "Purpose: This benefits the lab by eliminating the need to purchase the standard high cost equipment such as a bio-printer.", 
+        "Main Components: Thor Labs Linear Actuators, Fluigent Microfluidics Control System, Matlab",
+        "Results: successfully programed the 3D actuators to parse .stl and .gcode files and interface with the microfluidic control system"
       ]
     },
     {
